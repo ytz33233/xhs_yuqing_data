@@ -1,0 +1,1072 @@
+{
+  "report_date": "2026-04-28",
+  "generated_at": "2026-04-28T10:24:30.541014",
+  "total_items": 50,
+  "summary": {
+    "negative_count": 1,
+    "neutral_count": 49,
+    "positive_count": 0,
+    "high_risk_count": 0,
+    "categories": {
+      "活动反馈": 32,
+      "品牌形象": 16,
+      "薅羊毛": 2
+    },
+    "platforms": {
+      "小红书": 30,
+      "微信公众号": 20
+    }
+  },
+  "items": [
+    {
+      "platform": "xhs",
+      "title": "今天中了66666工行i豆！",
+      "content": "今天中了66666工行i豆！",
+      "author": "pic小鬼怪",
+      "url": "https://www.xiaohongshu.com/explore/69cc9481000000001a02aea2",
+      "publish_time": "04-01",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "94",
+        "comments": "91",
+        "collects": "63",
+        "shares": "24"
+      },
+      "extra": {
+        "feed_id": "69cc9481000000001a02aea2"
+      },
+      "relevance_score": 57.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.8372,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行升金有礼领取",
+      "content": "工行升金有礼领取",
+      "author": "现实也不真",
+      "url": "https://www.xiaohongshu.com/explore/698a0916000000001600bc67",
+      "publish_time": "02-10",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "19",
+        "comments": "92",
+        "collects": "6",
+        "shares": "3"
+      },
+      "extra": {
+        "feed_id": "698a0916000000001600bc67"
+      },
+      "relevance_score": 81.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.8304,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行升金有礼3月保底44元毛",
+      "content": "工行升金有礼3月保底44元毛",
+      "author": "ssh",
+      "url": "https://www.xiaohongshu.com/explore/69ccd7520000000023023a9d",
+      "publish_time": "04-01",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "18",
+        "comments": "27",
+        "collects": "7",
+        "shares": "6"
+      },
+      "extra": {
+        "feed_id": "69ccd7520000000023023a9d"
+      },
+      "relevance_score": 81.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.8276,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行完成任务领8.8万i豆",
+      "content": "工行完成任务领8.8万i豆",
+      "author": "小红薯",
+      "url": "https://www.xiaohongshu.com/explore/69a83b38000000001a0286e1",
+      "publish_time": "03-04",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "20",
+        "comments": "16",
+        "collects": "6",
+        "shares": "5"
+      },
+      "extra": {
+        "feed_id": "69a83b38000000001a0286e1"
+      },
+      "relevance_score": 33.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.8271,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行3月升金有礼活动，豆到了吗",
+      "content": "工行3月升金有礼活动，豆到了吗",
+      "author": "茉莉",
+      "url": "https://www.xiaohongshu.com/explore/69d84cd5000000002003b0e8",
+      "publish_time": "04-10",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "4",
+        "comments": "33",
+        "collects": "2",
+        "shares": "2"
+      },
+      "extra": {
+        "feed_id": "69d84cd5000000002003b0e8"
+      },
+      "relevance_score": 81.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.8268,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行升金有礼可以领取了",
+      "content": "工行升金有礼可以领取了",
+      "author": "小红薯CB53EE72",
+      "url": "https://www.xiaohongshu.com/explore/693fdde5000000000d00e754",
+      "publish_time": "2025-12-15",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "0",
+        "comments": "21",
+        "collects": "0",
+        "shares": "1"
+      },
+      "extra": {
+        "feed_id": "693fdde5000000000d00e754"
+      },
+      "relevance_score": 81.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.826,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行6月升金有礼活动",
+      "content": "工行6月升金有礼活动",
+      "author": "羊毛方法论",
+      "url": "https://www.xiaohongshu.com/explore/683fd5ca0000000021007432",
+      "publish_time": "2025-06-04",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "5",
+        "comments": "8",
+        "collects": "0",
+        "shares": "1"
+      },
+      "extra": {
+        "feed_id": "683fd5ca0000000021007432"
+      },
+      "relevance_score": 81.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.8256,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "4月升金有礼入口",
+      "content": "4月升金有礼入口",
+      "author": "小红薯67AED185",
+      "url": "https://www.xiaohongshu.com/explore/69e38c820000000023026b3e",
+      "publish_time": "04-18",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "1",
+        "comments": "0",
+        "collects": "0",
+        "shares": "0"
+      },
+      "extra": {
+        "feed_id": "69e38c820000000023026b3e"
+      },
+      "relevance_score": 48.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工行3月升金有礼活动|薅羊毛系列",
+      "content": "01,升金有礼活动介绍及入口升金有礼活动简单说是本月的资产相比上个月有提升,达到不同档位有不同奖励",
+      "author": "希凌随想录",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl1&type=2&query=升金有礼&token=T1",
+      "publish_time": "2026-03-03",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "希凌随想录"
+      },
+      "relevance_score": 90.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工行升金有礼活动",
+      "content": "方式1:工商银行APP首页升金有礼,可直接在搜索框检索 方式2:工商银行APP首页下拉热门活动升级有礼",
+      "author": "李财经李",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl2&type=2&query=升金有礼&token=T2",
+      "publish_time": "2026-03-04",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "李财经李"
+      },
+      "relevance_score": 111.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "夏日悠享,升金有礼!工商银行多重好礼等你来拿!",
+      "content": "纪洁只要6月底前报名升金有礼活动,当月的月日均金融资产如果较上个月提升到相应的等级,下个月就可以获得相应等级的积分",
+      "author": "南京零距离",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl3&type=2&query=升金有礼&token=T3",
+      "publish_time": "2022-06-06",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "南京零距离"
+      },
+      "relevance_score": 74.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "升金有礼|赢最高价值约15000元积分!",
+      "content": "",
+      "author": "工商银行山西分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl4&type=2&query=升金有礼&token=T4",
+      "publish_time": "2024-02-09",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行山西分行"
+      },
+      "relevance_score": 48.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "升金有礼|赢积分、兑好礼",
+      "content": "",
+      "author": "工商银行宜宾分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl5&type=2&query=升金有礼&token=T5",
+      "publish_time": "2024-04-03",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行宜宾分行"
+      },
+      "relevance_score": 48.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "升金有礼|最高赢400万积分,换微信支付宝红包、话费等好礼!",
+      "content": "转自中国工商银行客户服务",
+      "author": "工商银行武汉分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl6&type=2&query=升金有礼&token=T6",
+      "publish_time": "2022-10-28",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行武汉分行"
+      },
+      "relevance_score": 57.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "升金有礼|超多好礼等你来兑,点击立即了解!",
+      "content": "",
+      "author": "工商银行太原分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl7&type=2&query=升金有礼&token=T7",
+      "publish_time": "2023-02-10",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行太原分行"
+      },
+      "relevance_score": 48.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "夏日悠享,升金有礼",
+      "content": "",
+      "author": "工商银行武汉分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl8&type=2&query=升金有礼&token=T8",
+      "publish_time": "2022-05-07",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行武汉分行"
+      },
+      "relevance_score": 48.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "浅夏盈盈 升金有礼|抽最高价值约1500元积分奖励",
+      "content": "",
+      "author": "工商银行山西分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl9&type=2&query=升金有礼&token=T9",
+      "publish_time": "2024-05-10",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行山西分行"
+      },
+      "relevance_score": 48.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "升金有礼|2月,您可以获得这些好礼",
+      "content": "广告",
+      "author": "工商银行大连分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_sjjyl10&type=2&query=升金有礼&token=T10",
+      "publish_time": "2024-02-01",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行大连分行"
+      },
+      "relevance_score": 48.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工行i豆兑换了100元,太香了!",
+      "content": "在领奖时间内,领取15000工银i豆奖励.月月增金礼:受邀用户当月的月日均金融资产比上一个月提升1W,在领奖时间内,领取",
+      "author": "末乔的后花园",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou1&type=2&query=工银i豆&token=I1",
+      "publish_time": "2026-01-29",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "末乔的后花园"
+      },
+      "relevance_score": 92.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工银i豆工银爱享礼,月月瓜分百亿豆",
+      "content": "工银i豆具体到期日为到期当月最后一日.例如2025年6月发放的消费积分转换为工银i豆后,在2026年6月30日含之前有",
+      "author": "工商银行安徽分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou2&type=2&query=工银i豆&token=I2",
+      "publish_time": "2026-03-11",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行安徽分行"
+      },
+      "relevance_score": 57.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工银I豆",
+      "content": "点击抽奖按钮,有机会抽取29.61万或20.1万或5万或2.35万或1万或5000或2000或100或10工银i豆",
+      "author": "羊毛星球漫游记",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou3&type=2&query=工银i豆&token=I3",
+      "publish_time": "2026-03-20",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "羊毛星球漫游记"
+      },
+      "relevance_score": 57.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "随机领工银i豆!",
+      "content": "早八点后,点中间的抽奖,随机抽取工银i豆!抽中100工银i豆",
+      "author": "羊毛大杂荟",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou4&type=2&query=工银i豆&token=I4",
+      "publish_time": "2026-03-06",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "羊毛大杂荟"
+      },
+      "relevance_score": 57.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "天天领工银i豆!",
+      "content": "从即日起到本月底,每日早八点,可以天天来工行借记卡抽随机工银i豆!活动路径:工行借记卡APP",
+      "author": "羊毛大杂荟",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou5&type=2&query=工银i豆&token=I5",
+      "publish_time": "2026-03-27",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "羊毛大杂荟"
+      },
+      "relevance_score": 60.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工行工银i豆4000个",
+      "content": "体验有礼,现大概率2000工银i豆.i豆兑立减金:1100豆=1元立减金(储蓄卡/信用卡)",
+      "author": "羊毛学士",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou6&type=2&query=工银i豆&token=I6",
+      "publish_time": "2026-02-01",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "羊毛学士"
+      },
+      "relevance_score": 66.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "至高领10万工银i豆,买年货、看电影",
+      "content": "新年消费,工银i豆直接当钱花!信用卡消费达标即可领豆,至高10万豆!能抵扣现金,支付时轻松兑现",
+      "author": "工商银行大连分行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou7&type=2&query=工银i豆&token=I7",
+      "publish_time": "2026-01-26",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "工商银行大连分行"
+      },
+      "relevance_score": 57.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工行66000工银i豆",
+      "content": "这个活动大家可以参与试试看,活动到月底结束还可以邀请好友参与,邀请好友助力成功之后还可以获得工银i豆",
+      "author": "爱Q生活网订阅平台",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou8&type=2&query=工银i豆&token=I8",
+      "publish_time": "2026-02-08",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "爱Q生活网订阅平台"
+      },
+      "relevance_score": 66.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工行信用卡工银i豆1千~10万/月",
+      "content": "工银i豆商城充值卡券内可以兑换京东E卡、猫超卡等.E卡最值,立减金最硬通",
+      "author": "羊毛学士",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou9&type=2&query=工银i豆&token=I9",
+      "publish_time": "2026-02-11",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "羊毛学士"
+      },
+      "relevance_score": 66.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "wechat",
+      "title": "工行i豆微信立减金",
+      "content": "工银i豆兑换入口如下,如果不是直达入口,可以在全部里面找到入口就可以了",
+      "author": "惠知助手",
+      "url": "https://weixin.sogou.com/link?url=dn9a_idou10&type=2&query=工银i豆&token=I10",
+      "publish_time": "2026-03-26",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {},
+      "extra": {
+        "account_name": "惠知助手"
+      },
+      "relevance_score": 76.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.825,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行升金达标礼",
+      "content": "工行升金达标礼",
+      "author": "小橙子小柠檬",
+      "url": "https://www.xiaohongshu.com/explore/69df79a30000000023017786",
+      "publish_time": "04-15",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "6",
+        "comments": "41",
+        "collects": "0",
+        "shares": "8"
+      },
+      "extra": {
+        "feed_id": "69df79a30000000023017786"
+      },
+      "relevance_score": 57.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.5517,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "这是工行上个月升金回馈补发了？",
+      "content": "这是工行上个月升金回馈补发了？",
+      "author": "CHRIS",
+      "url": "https://www.xiaohongshu.com/explore/69cdcda80000000022027aaa",
+      "publish_time": "04-02",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "6",
+        "comments": "9",
+        "collects": "3",
+        "shares": "1"
+      },
+      "extra": {
+        "feed_id": "69cdcda80000000022027aaa"
+      },
+      "relevance_score": 33.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.5506,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "这很难不心动，升金活动哪家强？",
+      "content": "这很难不心动，升金活动哪家强？",
+      "author": "璐璐Lucia",
+      "url": "https://www.xiaohongshu.com/explore/69532028000000001e00757e",
+      "publish_time": "2025-12-30",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "4",
+        "comments": "6",
+        "collects": "1",
+        "shares": "2"
+      },
+      "extra": {
+        "feed_id": "69532028000000001e00757e"
+      },
+      "relevance_score": 48.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.5504,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行抽奖，大红17.88，有保底0.2，速度!",
+      "content": "工行抽奖，大红17.88，有保底0.2，速度!",
+      "author": "致远羊毛日记",
+      "url": "https://www.xiaohongshu.com/explore/69e9a8d9000000001e00cd87",
+      "publish_time": "4天前",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "575",
+        "comments": "339",
+        "collects": "381",
+        "shares": "613"
+      },
+      "extra": {
+        "feed_id": "69e9a8d9000000001e00cd87"
+      },
+      "relevance_score": 21.0,
+      "category": "活动反馈",
+      "sentiment": "neutral",
+      "priority": 0.4872,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "非常失望工行",
+      "content": "非常失望工行",
+      "author": "小萌新",
+      "url": "https://www.xiaohongshu.com/explore/69aa3b99000000001a027c34",
+      "publish_time": "03-06",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "17",
+        "comments": "47",
+        "collects": "12",
+        "shares": "5"
+      },
+      "extra": {
+        "feed_id": "69aa3b99000000001a027c34"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "negative",
+      "priority": 0.4224,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "2.15！工行领奖第四弹！13项叠加领到手软！",
+      "content": "2.15！工行领奖第四弹！13项叠加领到手软！",
+      "author": "退休少女思韵",
+      "url": "https://www.xiaohongshu.com/explore/69911ab7000000000e00f3e7",
+      "publish_time": "02-15",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "510",
+        "comments": "70",
+        "collects": "343",
+        "shares": "136"
+      },
+      "extra": {
+        "feed_id": "69911ab7000000000e00f3e7"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.3018,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行开奖了，喜提3300块",
+      "content": "工行开奖了，喜提3300块",
+      "author": "天天上上签",
+      "url": "https://www.xiaohongshu.com/explore/684e2a14000000002100fac9",
+      "publish_time": "2025-06-15",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "379",
+        "comments": "214",
+        "collects": "163",
+        "shares": "132"
+      },
+      "extra": {
+        "feed_id": "684e2a14000000002100fac9"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2966,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "4.9工行答题+0.6红包",
+      "content": "4.9工行答题+0.6红包",
+      "author": "小昌昌昌",
+      "url": "https://www.xiaohongshu.com/explore/69d76cab000000001a030ee7",
+      "publish_time": "04-09",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "190",
+        "comments": "88",
+        "collects": "64",
+        "shares": "128"
+      },
+      "extra": {
+        "feed_id": "69d76cab000000001a030ee7"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2841,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行每月500润",
+      "content": "工行每月500润",
+      "author": "薅羊毛小羊",
+      "url": "https://www.xiaohongshu.com/explore/69d256d8000000002200ebe6",
+      "publish_time": "04-05",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "113",
+        "comments": "178",
+        "collects": "94",
+        "shares": "34"
+      },
+      "extra": {
+        "feed_id": "69d256d8000000002200ebe6"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2826,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行奋斗专丝滑下卡",
+      "content": "工行奋斗专丝滑下卡",
+      "author": "喝口气泡水",
+      "url": "https://www.xiaohongshu.com/explore/69e45a6f000000002102f9dd",
+      "publish_time": "04-19",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "35",
+        "comments": "105",
+        "collects": "36",
+        "shares": "4"
+      },
+      "extra": {
+        "feed_id": "69e45a6f000000002102f9dd"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2754,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "省下70美元！工行星座信用卡交版面费攻略",
+      "content": "省下70美元！工行星座信用卡交版面费攻略",
+      "author": "兰兰酱",
+      "url": "https://www.xiaohongshu.com/explore/69cf6bbd000000001a032f50",
+      "publish_time": "04-03",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "80",
+        "comments": "4",
+        "collects": "56",
+        "shares": "13"
+      },
+      "extra": {
+        "feed_id": "69cf6bbd000000001a032f50"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2746,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "4.21工商答题红包",
+      "content": "4.21工商答题红包",
+      "author": "小新爱分享",
+      "url": "https://www.xiaohongshu.com/explore/69e6deb0000000002200e55d",
+      "publish_time": "04-21",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "58",
+        "comments": "15",
+        "collects": "42",
+        "shares": "31"
+      },
+      "extra": {
+        "feed_id": "69e6deb0000000002200e55d"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2744,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行3月资产提升活动收益计算",
+      "content": "工行3月资产提升活动收益计算",
+      "author": "八月小树",
+      "url": "https://www.xiaohongshu.com/explore/67c853c1000000000d0141b7",
+      "publish_time": "2025-03-07",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "36",
+        "comments": "30",
+        "collects": "37",
+        "shares": "22"
+      },
+      "extra": {
+        "feed_id": "67c853c1000000000d0141b7"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2737,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "4.27工行 每周一测0.4",
+      "content": "4.27工行 每周一测0.4",
+      "author": "饭咋贵",
+      "url": "https://www.xiaohongshu.com/explore/69eec407000000003501c2cc",
+      "publish_time": "1天前",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "41",
+        "comments": "14",
+        "collects": "28",
+        "shares": "28"
+      },
+      "extra": {
+        "feed_id": "69eec407000000003501c2cc"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2733,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "继续薅羊毛",
+      "content": "继续薅羊毛",
+      "author": "华仔",
+      "url": "https://www.xiaohongshu.com/explore/69c3c33f000000002200eea2",
+      "publish_time": "03-25",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "30",
+        "comments": "31",
+        "collects": "12",
+        "shares": "5"
+      },
+      "extra": {
+        "feed_id": "69c3c33f000000002200eea2"
+      },
+      "relevance_score": 9.0,
+      "category": "薅羊毛",
+      "sentiment": "neutral",
+      "priority": 0.2723,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行 每周一测0.4（4.27）",
+      "content": "工行 每周一测0.4（4.27）",
+      "author": "年年羊毛日记",
+      "url": "https://www.xiaohongshu.com/explore/69eec4ca000000003503aea8",
+      "publish_time": "昨天",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "35",
+        "comments": "8",
+        "collects": "19",
+        "shares": "12"
+      },
+      "extra": {
+        "feed_id": "69eec4ca000000003503aea8"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2722,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "3月工行为啥说我未达标（已解决）",
+      "content": "3月工行为啥说我未达标（已解决）",
+      "author": "二七一十四",
+      "url": "https://www.xiaohongshu.com/explore/69dfa8c7000000002301cdef",
+      "publish_time": "04-16",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "11",
+        "comments": "22",
+        "collects": "1",
+        "shares": "0"
+      },
+      "extra": {
+        "feed_id": "69dfa8c7000000002301cdef"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.271,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "薅羊毛也变难了",
+      "content": "薅羊毛也变难了",
+      "author": "一等锦鲤",
+      "url": "https://www.xiaohongshu.com/explore/69d327e10000000023023259",
+      "publish_time": "04-06",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "6",
+        "comments": "26",
+        "collects": "0",
+        "shares": "0"
+      },
+      "extra": {
+        "feed_id": "69d327e10000000023023259"
+      },
+      "relevance_score": 9.0,
+      "category": "薅羊毛",
+      "sentiment": "neutral",
+      "priority": 0.271,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "上月工行新春礼20档抽空的已经补了可以领了",
+      "content": "上月工行新春礼20档抽空的已经补了可以领了",
+      "author": "敢敢很敢",
+      "url": "https://www.xiaohongshu.com/explore/69cbf3a00000000023023ce6",
+      "publish_time": "04-01",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "5",
+        "comments": "12",
+        "collects": "2",
+        "shares": "2"
+      },
+      "extra": {
+        "feed_id": "69cbf3a00000000023023ce6"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2706,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行消费季",
+      "content": "工行消费季",
+      "author": "三日寂静",
+      "url": "https://www.xiaohongshu.com/explore/69cf1335000000001a029d2c",
+      "publish_time": "04-03",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "3",
+        "comments": "8",
+        "collects": "0",
+        "shares": "1"
+      },
+      "extra": {
+        "feed_id": "69cf1335000000001a029d2c"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2704,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行融e借｜大行羊毛这样薅才安心",
+      "content": "工行融e借｜大行羊毛这样薅才安心",
+      "author": "93",
+      "url": "https://www.xiaohongshu.com/explore/69f018ef000000001a02e9ba",
+      "publish_time": "3分钟前",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "2",
+        "comments": "1",
+        "collects": "0",
+        "shares": "1"
+      },
+      "extra": {
+        "feed_id": "69f018ef000000001a02e9ba"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2701,
+      "is_icbc_related": true
+    },
+    {
+      "platform": "xhs",
+      "title": "工行 1个馒头",
+      "content": "工行 1个馒头",
+      "author": "苏轼南北辙",
+      "url": "https://www.xiaohongshu.com/explore/69eb22eb0000000023005f3c",
+      "publish_time": "3天前",
+      "fetch_time": "2026-04-28T10:24:29.134317",
+      "engagement": {
+        "likes": "1",
+        "comments": "1",
+        "collects": "1",
+        "shares": "0"
+      },
+      "extra": {
+        "feed_id": "69eb22eb0000000023005f3c"
+      },
+      "relevance_score": 9.0,
+      "category": "品牌形象",
+      "sentiment": "neutral",
+      "priority": 0.2701,
+      "is_icbc_related": true
+    }
+  ]
+}
