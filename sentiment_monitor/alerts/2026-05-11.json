@@ -1,0 +1,121 @@
+{
+  "alertDate": "2026-05-11",
+  "generatedAt": "2026-05-12T01:50:46.706Z",
+  "summary": {
+    "high": 0,
+    "medium": 11,
+    "total": 11
+  },
+  "records": [
+    {
+      "id": "20260511-01",
+      "title": "长辈客户升金有礼空奖投诉",
+      "source": "黑猫投诉",
+      "content": "用户参加2026年3月长辈客户升金有礼活动，宣传提升100万得300元微信立减金，实际达标后仅允许抽奖且为空奖，客服称奖品已领完。",
+      "riskLevel": "medium",
+      "sentiment": "negative",
+      "url": "",
+      "relatedProduct": "升金有礼"
+    },
+    {
+      "id": "20260511-02",
+      "title": "河北分行升金有礼霸王条款",
+      "source": "黑猫投诉",
+      "content": "2026年2月参与河北升金有礼活动，3月提示达标后领取2258元微信立减金遇阻。",
+      "riskLevel": "medium",
+      "sentiment": "negative",
+      "url": "",
+      "relatedProduct": "升金有礼"
+    },
+    {
+      "id": "20260511-03",
+      "title": "升金有礼抽奖空包讨论",
+      "source": "赚客新吧/线报论坛",
+      "content": "用户反馈工行升金有礼20万资产提升档位抽奖出现\"空包\"（未中奖），有用户称客服回复下月补发。",
+      "riskLevel": "medium",
+      "sentiment": "negative",
+      "url": "",
+      "relatedProduct": "升金有礼"
+    },
+    {
+      "id": "20260511-05",
+      "title": "工行积分变i豆贬值超30%",
+      "source": "信网/搜狐号",
+      "content": "工行2025年4月将积分转换为工银i豆，用户反映兑换价值缩水，10万积分原本可兑150元立减金，现只能兑100元，贬值约1/3。",
+      "riskLevel": "medium",
+      "sentiment": "negative",
+      "url": "",
+      "relatedProduct": "i豆活动"
+    },
+    {
+      "id": "20260511-06",
+      "title": "工银i豆兑换陷阱",
+      "source": "搜狐号",
+      "content": "工行临汾分行以\"积分兑换礼品\"名义邀请客户，实际产品大幅加价，香皂+沐浴露+绞肉机标价400余元，自行购买不到200元。",
+      "riskLevel": "medium",
+      "sentiment": "negative",
+      "url": "",
+      "relatedProduct": "i豆活动"
+    },
+    {
+      "id": "20260511-07",
+      "title": "工银i豆兑换出错投诉",
+      "source": "黑猫投诉",
+      "content": "用户反映i豆兑换页面出现问题，490i豆兑换100元立减金而非210i豆兑换200元，要求赔偿400元。",
+      "riskLevel": "medium",
+      "sentiment": "negative",
+      "url": "",
+      "relatedProduct": "i豆活动"
+    },
+    {
+      "id": "20260511-11",
+      "title": "工行5月升金有礼活动来了！",
+      "source": "小红书",
+      "content": "工行5月升金有礼活动来了！提升资产最高领300万i豆，达标更有惊喜",
+      "riskLevel": "medium",
+      "sentiment": "positive",
+      "url": "https://www.xiaohongshu.com/explore/6a00c1d8000000002203a4b6",
+      "relatedProduct": "i豆活动"
+    },
+    {
+      "id": "20260511-12",
+      "title": "工商银行员工出道了算不算工银i豆",
+      "source": "小红书",
+      "content": "工商银行员工出道了算不算工银i豆",
+      "riskLevel": "medium",
+      "sentiment": "neutral",
+      "url": "https://www.xiaohongshu.com/explore/69f3112f000000001f001550",
+      "relatedProduct": "i豆活动"
+    },
+    {
+      "id": "20260511-20",
+      "title": "工行升金有礼可以领奖啦",
+      "source": "小红书",
+      "content": "工行升金有礼可以领奖啦",
+      "riskLevel": "medium",
+      "sentiment": "neutral",
+      "url": "https://www.xiaohongshu.com/explore/68254331000000002301fdf5",
+      "relatedProduct": "升金有礼"
+    },
+    {
+      "id": "20260511-23",
+      "title": "工行4月升金有礼活动可以参加（有变化）",
+      "source": "小红书",
+      "content": "工行4月升金有礼活动可以参加（有变化）",
+      "riskLevel": "medium",
+      "sentiment": "neutral",
+      "url": "https://www.xiaohongshu.com/explore/67fb77ae000000001e0067f9",
+      "relatedProduct": "升金有礼"
+    },
+    {
+      "id": "20260511-40",
+      "title": "工行i豆兑换什么最划算",
+      "source": "小红书",
+      "content": "工行i豆兑换什么最划算",
+      "riskLevel": "medium",
+      "sentiment": "positive",
+      "url": "https://www.xiaohongshu.com/explore/69af8e7b0000000022020c8a",
+      "relatedProduct": "i豆活动"
+    }
+  ]
+}

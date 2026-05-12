@@ -1,518 +1,81 @@
 {
   "reportDate": "2026-05-09",
   "generatedAt": "2026-05-09 09:36",
-  "fromHistory": false,
+  "source": "xiaohongshu",
   "summary": {
-    "total": 36,
+    "total": 25,
     "recentCount": 3,
-    "historyCount": 33,
-    "negativeCount": 12,
-    "negativePct": 33,
-    "positiveCount": 3,
-    "neutralCount": 21,
-    "channelCount": 6,
-    "highRiskCount": 2
+    "historyCount": 22,
+    "negativeCount": 1,
+    "negativePct": 4,
+    "positiveCount": 4,
+    "neutralCount": 20,
+    "channelCount": 1,
+    "highRiskCount": 1
   },
   "bySource": {
-    "complaint": 8,
-    "forum": 3,
-    "news": 1,
-    "official": 1,
-    "social": 1,
-    "xiaohongshu": 22
+    "social": 25
   },
   "bySentiment": {
-    "negative": 12,
-    "neutral": 21,
-    "positive": 3
+    "positive": 4,
+    "negative": 1,
+    "neutral": 20
   },
   "byRisk": {
-    "medium": 14,
-    "high": 2,
-    "low": 20
+    "high": 1,
+    "medium": 7,
+    "low": 17
   },
   "byProduct": {
-    "升金有礼": 15,
-    "i豆活动": 19,
-    "其他": 2
+    "i豆活动": 11,
+    "升金有礼": 9,
+    "其他": 5
   },
-  "trend7d": [
-    {
-      "date": "2026-05-03",
-      "total": 0,
-      "recent": 0,
-      "history": 0,
-      "negative": 0
-    },
-    {
-      "date": "2026-05-04",
-      "total": 0,
-      "recent": 0,
-      "history": 0,
-      "negative": 0
-    },
-    {
-      "date": "2026-05-05",
-      "total": 0,
-      "recent": 0,
-      "history": 0,
-      "negative": 0
-    },
-    {
-      "date": "2026-05-06",
-      "total": 2,
-      "recent": 0,
-      "history": 2,
-      "negative": 0
-    },
-    {
-      "date": "2026-05-07",
-      "total": 0,
-      "recent": 0,
-      "history": 0,
-      "negative": 0
-    },
-    {
-      "date": "2026-05-08",
-      "total": 4,
-      "recent": 3,
-      "history": 1,
-      "negative": 1
-    },
-    {
-      "date": "2026-05-09",
-      "total": 3,
-      "recent": 3,
-      "history": 0,
-      "negative": 0
-    }
-  ],
   "hotKeywords": [
     {
       "word": "升金有礼",
-      "count": 23
+      "count": 17
     },
     {
       "word": "i豆",
-      "count": 20
-    },
-    {
-      "word": "立减金",
       "count": 11
     },
     {
+      "word": "立减金",
+      "count": 8
+    },
+    {
       "word": "羊毛",
-      "count": 6
-    },
-    {
-      "word": "资产提升",
-      "count": 5
-    },
-    {
-      "word": "到账",
-      "count": 5
-    },
-    {
-      "word": "兑换",
-      "count": 4
+      "count": 7
     },
     {
       "word": "资产达标",
       "count": 4
     },
     {
-      "word": "抽奖",
-      "count": 3
+      "word": "资产提升",
+      "count": 4
     },
     {
-      "word": "分行",
+      "word": "收益",
+      "count": 4
+    },
+    {
+      "word": "到账",
+      "count": 4
+    },
+    {
+      "word": "薅羊毛",
+      "count": 4
+    },
+    {
+      "word": "福利",
       "count": 3
     }
   ],
   "records": [
     {
-      "title": "长辈客户升金有礼空奖投诉",
-      "content": "参加工行长辈客户升金有礼活动，宣传提升100万得300微信立减金，实际达标后却只让抽奖且为空奖，客服称已领完",
-      "source": "黑猫投诉",
-      "publishTime": "2026-04-29",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "complaint",
-      "riskLevel": "medium",
-      "relatedProduct": "升金有礼",
-      "keywords": [
-        "升金有礼",
-        "立减金",
-        "空奖",
-        "抽奖",
-        "投诉"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2026-04-29",
-      "fetchTime": "2026-05-09",
-      "author": "黑猫投诉",
-      "url": "",
-      "id": "20260509-01"
-    },
-    {
-      "title": "河北分行升金有礼霸王条款",
-      "content": "2026年2月参与河北升金有礼活动，3月提示达标后领取2258元微信立减金遇阻",
-      "source": "黑猫投诉",
-      "publishTime": "2026-03-31",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "complaint",
-      "riskLevel": "medium",
-      "relatedProduct": "升金有礼",
-      "keywords": [
-        "升金有礼",
-        "立减金",
-        "霸王条款",
-        "河北",
-        "分行"
-      ],
-      "amount": "2258元",
-      "status": "未处理",
-      "date": "2026-03-31",
-      "fetchTime": "2026-05-09",
-      "author": "黑猫投诉",
-      "url": "",
-      "id": "20260509-02"
-    },
-    {
-      "title": "升金有礼抽奖空包讨论",
-      "content": "用户反馈工行升金20万抽奖为空包，客服回复下月补；多人遇到空奖问题",
-      "source": "赚客新吧/线报论坛",
-      "publishTime": "2026-03-05~2026-03-09",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "forum",
-      "riskLevel": "medium",
-      "relatedProduct": "升金有礼",
-      "keywords": [
-        "升金有礼",
-        "空奖",
-        "抽奖",
-        "客服"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2026-03-05",
-      "fetchTime": "2026-05-09",
-      "author": "赚客新吧/线报论坛",
-      "url": "",
-      "id": "20260509-03"
-    },
-    {
-      "title": "升金有礼虚假宣传（历史案例）",
-      "content": "报名总行升金有礼活动，宣传100%中奖，资产提升达标后抽奖却显示\"谢谢参与\"",
-      "source": "黑猫投诉",
-      "publishTime": "2024-03-21",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低（历史案例，但模式延续）",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "complaint",
-      "riskLevel": "medium",
-      "relatedProduct": "升金有礼",
-      "keywords": [
-        "升金有礼",
-        "抽奖",
-        "虚假宣传",
-        "谢谢参与",
-        "资产提升"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2024-03-21",
-      "fetchTime": "2026-05-09",
-      "author": "黑猫投诉",
-      "url": "",
-      "id": "20260509-04"
-    },
-    {
-      "title": "安徽分行升金有礼金额不符（历史案例）",
-      "content": "参与活动后到账奖励与宣传金额严重不符，兑换微信立减金部分未到账",
-      "source": "黑猫投诉",
-      "publishTime": "2024-03-04~2024-05-21",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低（多起历史投诉）",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "complaint",
-      "riskLevel": "medium",
-      "relatedProduct": "升金有礼",
-      "keywords": [
-        "升金有礼",
-        "立减金",
-        "安徽",
-        "分行",
-        "到账"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2024-03-04",
-      "fetchTime": "2026-05-09",
-      "author": "黑猫投诉",
-      "url": "",
-      "id": "20260509-05"
-    },
-    {
-      "title": "i豆不知情清零",
-      "content": "约826工银i豆在未收到任何短信/APP提醒的情况下被系统自动清零，95588无法接通",
-      "source": "黑猫投诉",
-      "publishTime": "2026-04-02",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "complaint",
-      "riskLevel": "medium",
-      "relatedProduct": "i豆活动",
-      "keywords": [
-        "i豆",
-        "清零",
-        "95588",
-        "提醒"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2026-04-02",
-      "fetchTime": "2026-05-09",
-      "author": "黑猫投诉",
-      "url": "",
-      "id": "20260509-06"
-    },
-    {
-      "title": "i豆兑换美团优惠券未到",
-      "content": "30000豆子兑换美团优惠券两次均未到账，因手机号关联两个美团账号导致",
-      "source": "黑猫投诉",
-      "publishTime": "2026-02-09",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "complaint",
-      "riskLevel": "medium",
-      "relatedProduct": "i豆活动",
-      "keywords": [
-        "i豆",
-        "美团",
-        "优惠券",
-        "到账",
-        "兑换"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2026-02-09",
-      "fetchTime": "2026-05-09",
-      "author": "黑猫投诉",
-      "url": "",
-      "id": "20260509-07"
-    },
-    {
-      "title": "i豆贬值争议（多家媒体报道）",
-      "content": "2025年4月推行i豆新规后，同数量i豆兑换价值较此前积分贬值约30%，18星点值原兑100元盒马卡现需约49个星点值",
-      "source": "信网/中国消费者报/网易/搜狐/重庆日报/中国宁波网/财经网/光明网等",
-      "publishTime": "2025-05-16（集中报道）",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "高（十余家媒体集中报道）",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "news",
-      "riskLevel": "high",
-      "relatedProduct": "i豆活动",
-      "keywords": [
-        "i豆",
-        "贬值",
-        "积分",
-        "兑换"
-      ],
-      "amount": "100元",
-      "status": "未处理",
-      "date": "2025-05-16",
-      "fetchTime": "2026-05-09",
-      "author": "信网/中国消费者报/网易/搜狐/重庆日报/中国宁波网/财经网/光明网等",
-      "url": "",
-      "id": "20260509-08"
-    },
-    {
-      "title": "i豆兑换商品不发货",
-      "content": "工银i豆商城购买中国龙银质纪念币，月中不发货，月底想退款无选项，要求退款后立马发货但朋友已拒收",
-      "source": "黑猫投诉",
-      "publishTime": "2025-12-01",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "complaint",
-      "riskLevel": "medium",
-      "relatedProduct": "i豆活动",
-      "keywords": [
-        "i豆",
-        "商城",
-        "不发货",
-        "兑换"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2025-12-01",
-      "fetchTime": "2026-05-09",
-      "author": "黑猫投诉",
-      "url": "",
-      "id": "20260509-09"
-    },
-    {
-      "title": "美团代金券变红包",
-      "content": "i豆商城兑换美团外卖\"代金券\"实际到账为\"红包\"，两者在美团外卖中严格区分",
-      "source": "黑猫投诉",
-      "publishTime": "2025-04-20",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "complaint",
-      "riskLevel": "medium",
-      "relatedProduct": "i豆活动",
-      "keywords": [
-        "i豆",
-        "美团",
-        "商城",
-        "代金券",
-        "红包"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2025-04-20",
-      "fetchTime": "2026-05-09",
-      "author": "黑猫投诉",
-      "url": "",
-      "id": "20260509-10"
-    },
-    {
-      "title": "2026年信用卡绑卡消费i豆活动",
-      "content": "工银信用卡在微信/支付宝/京东/美团/抖音/拼多多快捷支付消费，每1元累积1i豆",
-      "source": "老行长网/池州人论坛",
-      "publishTime": "2026-04-20 / 2026-01-23",
-      "sentimentRaw": "中性",
-      "isComplaint": "否",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "neutral",
-      "sourceType": "forum",
-      "riskLevel": "low",
-      "relatedProduct": "i豆活动",
-      "keywords": [
-        "i豆",
-        "美团",
-        "信用卡"
-      ],
-      "amount": "1元",
-      "status": "未处理",
-      "date": "2026-04-20",
-      "fetchTime": "2026-05-09",
-      "author": "老行长网/池州人论坛",
-      "url": "",
-      "id": "20260509-11"
-    },
-    {
-      "title": "吉林分行i豆权益兑换招标",
-      "content": "吉林分行i豆权益兑换服务项目招标，预估金额400万元",
-      "source": "国信招标",
-      "publishTime": "2026-04-22",
-      "sentimentRaw": "中性",
-      "isComplaint": "否",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "neutral",
-      "sourceType": "official",
-      "riskLevel": "low",
-      "relatedProduct": "i豆活动",
-      "keywords": [
-        "i豆",
-        "吉林",
-        "分行",
-        "兑换"
-      ],
-      "amount": "400万元",
-      "status": "未处理",
-      "date": "2026-04-22",
-      "fetchTime": "2026-05-09",
-      "author": "国信招标",
-      "url": "",
-      "id": "20260509-12"
-    },
-    {
-      "title": "升金有礼领奖提醒（线报）",
-      "content": "提醒3月升金礼达标用户去领i豆，4月新一期记得参与",
-      "source": "羊毛村线报",
-      "publishTime": "2026-04-15",
-      "sentimentRaw": "中性",
-      "isComplaint": "否",
-      "fermentation": "低",
-      "recency": "历史",
-      "sentiment": "neutral",
-      "sourceType": "forum",
-      "riskLevel": "low",
-      "relatedProduct": "升金有礼",
-      "keywords": [
-        "升金有礼",
-        "i豆",
-        "提醒"
-      ],
-      "amount": "-",
-      "status": "未处理",
-      "date": "2026-04-15",
-      "fetchTime": "2026-05-09",
-      "author": "羊毛村线报",
-      "url": "",
-      "id": "20260509-13"
-    },
-    {
-      "title": "i豆贬值争议",
-      "content": "2025年4月积分体系整合后，i豆相比原积分贬值约30%，原7000积分可换10元礼品，现需10000 i豆",
-      "source": "九派新闻、黑猫投诉、信网",
-      "publishTime": "2025年4月",
-      "sentimentRaw": "负面",
-      "isComplaint": "是",
-      "fermentation": "中",
-      "recency": "历史",
-      "sentiment": "negative",
-      "sourceType": "social",
-      "riskLevel": "medium",
-      "relatedProduct": "i豆活动",
-      "keywords": [
-        "i豆",
-        "贬值",
-        "积分"
-      ],
-      "amount": "7000积分",
-      "status": "未处理",
-      "date": "2025-04-01",
-      "fetchTime": "2026-05-09",
-      "author": "九派新闻、黑猫投诉、信网",
-      "url": "",
-      "id": "20260509-14"
-    },
-    {
-      "id": "20260509-15",
+      "id": "20260509-01",
       "date": "2026-04-01",
       "publishTime": "2026-04-01",
       "source": "小红书",
@@ -535,7 +98,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-16",
+      "id": "20260509-02",
       "date": "2025-06-04",
       "publishTime": "2025-06-04",
       "source": "小红书",
@@ -559,7 +122,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-17",
+      "id": "20260509-03",
       "date": "2025-03-07",
       "publishTime": "2025-03-07",
       "source": "小红书",
@@ -584,7 +147,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-18",
+      "id": "20260509-04",
       "date": "2026-02-15",
       "publishTime": "2026-02-15",
       "source": "小红书",
@@ -609,7 +172,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-19",
+      "id": "20260509-05",
       "date": "2026-05-09",
       "publishTime": "2026-05-09",
       "source": "小红书",
@@ -633,7 +196,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-20",
+      "id": "20260509-06",
       "date": "2026-05-09",
       "publishTime": "2026-05-09",
       "source": "小红书",
@@ -658,7 +221,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-21",
+      "id": "20260509-07",
       "date": "2026-04-05",
       "publishTime": "2026-04-05",
       "source": "小红书",
@@ -683,7 +246,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-22",
+      "id": "20260509-08",
       "date": "2026-05-08",
       "publishTime": "2026-05-08",
       "source": "小红书",
@@ -707,7 +270,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-23",
+      "id": "20260509-09",
       "date": "2026-03-06",
       "publishTime": "2026-03-06",
       "source": "小红书",
@@ -731,7 +294,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-24",
+      "id": "20260509-10",
       "date": "2026-02-02",
       "publishTime": "2026-02-02",
       "source": "小红书",
@@ -755,7 +318,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-25",
+      "id": "20260509-11",
       "date": "2026-04-15",
       "publishTime": "2026-04-15",
       "source": "小红书",
@@ -777,7 +340,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-26",
+      "id": "20260509-12",
       "date": "2026-05-06",
       "publishTime": "2026-05-06",
       "source": "小红书",
@@ -802,7 +365,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-27",
+      "id": "20260509-13",
       "date": "2026-03-25",
       "publishTime": "2026-03-25",
       "source": "小红书",
@@ -827,7 +390,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-28",
+      "id": "20260509-14",
       "date": "2026-05-01",
       "publishTime": "2026-05-01",
       "source": "小红书",
@@ -850,7 +413,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-29",
+      "id": "20260509-15",
       "date": "2025-05-09",
       "publishTime": "2025-05-09",
       "source": "小红书",
@@ -874,7 +437,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-30",
+      "id": "20260509-16",
       "date": "2026-03-30",
       "publishTime": "2026-03-30",
       "source": "小红书",
@@ -896,7 +459,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-31",
+      "id": "20260509-17",
       "date": "2026-05-06",
       "publishTime": "2026-05-06",
       "source": "小红书",
@@ -919,7 +482,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-32",
+      "id": "20260509-18",
       "date": "2026-04-10",
       "publishTime": "2026-04-10",
       "source": "小红书",
@@ -942,7 +505,7 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-33",
+      "id": "20260509-19",
       "date": "2026-04-02",
       "publishTime": "2026-04-02",
       "source": "小红书",
@@ -966,7 +529,30 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-34",
+      "id": "20260509-20",
+      "date": "2026-03-15",
+      "publishTime": "2026-03-15",
+      "source": "小红书",
+      "sourceType": "xiaohongshu",
+      "sentiment": "positive",
+      "riskLevel": "medium",
+      "title": "工行升金礼2月",
+      "content": "工行升金礼2月奖励到账了",
+      "url": "https://www.xiaohongshu.com/explore/69b58650000000001b023055",
+      "author": "草莓味的风",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-05-09 17:00",
+      "recency": "历史",
+      "keywords": [
+        "到账",
+        "奖励"
+      ],
+      "channel": "xiaohongshu"
+    },
+    {
+      "id": "20260509-21",
       "date": "2026-04-26",
       "publishTime": "2026-04-26",
       "source": "小红书",
@@ -991,7 +577,29 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-35",
+      "id": "20260509-22",
+      "date": "2026-05-06",
+      "publishTime": "2026-05-06",
+      "source": "小红书",
+      "sourceType": "xiaohongshu",
+      "sentiment": "neutral",
+      "riskLevel": "medium",
+      "title": "4月月度工商银行理财收益!年化率+5.02%",
+      "content": "工商银行理财月度收益分享，年化超5%",
+      "url": "https://www.xiaohongshu.com/explore/69faf056000000001a02c68c",
+      "author": "Jeasine石",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-05-09 17:00",
+      "recency": "历史",
+      "keywords": [
+        "收益"
+      ],
+      "channel": "xiaohongshu"
+    },
+    {
+      "id": "20260509-23",
       "date": "2026-04-26",
       "publishTime": "2026-04-26",
       "source": "小红书",
@@ -1015,7 +623,30 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260509-36",
+      "id": "20260509-24",
+      "date": "2026-04-23",
+      "publishTime": "2026-04-23",
+      "source": "小红书",
+      "sourceType": "xiaohongshu",
+      "sentiment": "neutral",
+      "riskLevel": "medium",
+      "title": "工行答题",
+      "content": "工行答题薅羊毛活动",
+      "url": "https://www.xiaohongshu.com/explore/69e9d014000000001901e005",
+      "author": "努力搬砖",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-05-09 17:00",
+      "recency": "历史",
+      "keywords": [
+        "薅羊毛",
+        "羊毛"
+      ],
+      "channel": "xiaohongshu"
+    },
+    {
+      "id": "20260509-25",
       "date": "2026-05-09",
       "publishTime": "2026-05-09",
       "source": "小红书",
