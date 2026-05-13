@@ -143,6 +143,28 @@ assert(typeof firstRecord.likes === 'number', '记录包含 likes');
 assert(typeof firstRecord.comments === 'number', '记录包含 comments');
 assert(typeof firstRecord.favorites === 'number', '记录包含 favorites');
 
+console.log('\n📋 测试关键词趋势函数');
+assert(typeof computeKeywordTrend === 'function', 'computeKeywordTrend 函数存在');
+assert(typeof showKeywordTrend === 'function', 'showKeywordTrend 函数存在');
+assert(typeof renderKeywordTrendChart === 'function', 'renderKeywordTrendChart 函数存在');
+
+const kwTestRecords = [
+  { id: '1', date: '2026-05-09', keywords: ['工行', '积分'] },
+  { id: '2', date: '2026-05-09', keywords: ['工行'] },
+  { id: '3', date: '2026-05-10', keywords: ['工行', '立减金'] },
+  { id: '4', date: '2026-05-11', keywords: ['积分'] },
+  { id: '5', date: '2026-05-12', keywords: ['工行', '积分', '立减金'] },
+];
+const kwTrend = computeKeywordTrend('工行', kwTestRecords);
+assert(kwTrend.length === 4, `关键词趋势返回4天数据 (实际=${kwTrend.length})`);
+assert(kwTrend[0].date === '2026-05-09' && kwTrend[0].count === 2, '5-09 出现2次');
+assert(kwTrend[1].date === '2026-05-10' && kwTrend[1].count === 1, '5-10 出现1次');
+assert(kwTrend[2].date === '2026-05-11' && kwTrend[2].count === 0, '5-11 出现0次');
+assert(kwTrend[3].date === '2026-05-12' && kwTrend[3].count === 1, '5-12 出现1次');
+
+const kwTrend2 = computeKeywordTrend('不存在', kwTestRecords);
+assert(kwTrend2.length === 0, '不存在的词返回空数组');
+
 // ────────────── 结果 ──────────────
 console.log(`\n${'='.repeat(40)}`);
 console.log(`📊 测试完成: ${pass} 通过, ${fail} 失败`);

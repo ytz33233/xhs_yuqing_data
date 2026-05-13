@@ -35,13 +35,55 @@
     "其他": 0
   },
   "trend7d": [
-    { "date": "2026-05-01", "total": 0, "recent": 0, "history": 0, "negative": 0 },
-    { "date": "2026-05-02", "total": 0, "recent": 0, "history": 0, "negative": 0 },
-    { "date": "2026-05-03", "total": 0, "recent": 0, "history": 0, "negative": 0 },
-    { "date": "2026-05-04", "total": 0, "recent": 0, "history": 0, "negative": 0 },
-    { "date": "2026-05-05", "total": 0, "recent": 0, "history": 0, "negative": 0 },
-    { "date": "2026-05-06", "total": 0, "recent": 0, "history": 0, "negative": 0 },
-    { "date": "2026-05-07", "total": 0, "recent": 0, "history": 0, "negative": 0 }
+    {
+      "date": "2026-05-01",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-02",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-03",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-04",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-05",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-06",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-07",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    }
   ],
   "hotKeywords": [],
   "records": []

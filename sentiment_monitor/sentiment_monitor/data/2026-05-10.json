@@ -1,0 +1,939 @@
+{
+  "reportDate": "2026-05-10",
+  "generatedAt": "2026-05-10 09:32",
+  "summary": {
+    "total": 32,
+    "recentCount": 0,
+    "historyCount": 32,
+    "negativeCount": 30,
+    "negativePct": 94,
+    "positiveCount": 1,
+    "neutralCount": 1,
+    "channelCount": 4,
+    "highRiskCount": 6
+  },
+  "bySource": {
+    "social": 11,
+    "news": 8,
+    "complaint": 9,
+    "forum": 4,
+    "official": 0
+  },
+  "bySource24h": {
+    "social": 0,
+    "news": 0,
+    "complaint": 0,
+    "forum": 0,
+    "official": 0
+  },
+  "bySentiment": {
+    "positive": 1,
+    "negative": 30,
+    "neutral": 1
+  },
+  "bySentiment24h": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0
+  },
+  "byRisk": {
+    "high": 6,
+    "medium": 16,
+    "low": 10
+  },
+  "byRisk24h": {
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "trend7d": [
+    {
+      "date": "2026-05-04",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-05",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-06",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-07",
+      "total": 0,
+      "recent": 0,
+      "history": 0,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-08",
+      "total": 13,
+      "recent": 0,
+      "history": 13,
+      "negative": 5
+    },
+    {
+      "date": "2026-05-09",
+      "total": 14,
+      "recent": 0,
+      "history": 14,
+      "negative": 11
+    },
+    {
+      "date": "2026-05-10",
+      "total": 32,
+      "recent": 0,
+      "history": 32,
+      "negative": 30
+    }
+  ],
+  "hotKeywords": [
+    {
+      "word": "i豆",
+      "count": 9
+    },
+    {
+      "word": "升金有礼",
+      "count": 5
+    },
+    {
+      "word": "反洗钱",
+      "count": 3
+    },
+    {
+      "word": "贬值",
+      "count": 3
+    },
+    {
+      "word": "立减金",
+      "count": 3
+    },
+    {
+      "word": "限额",
+      "count": 2
+    },
+    {
+      "word": "风控",
+      "count": 2
+    },
+    {
+      "word": "养老金",
+      "count": 2
+    },
+    {
+      "word": "诱导",
+      "count": 2
+    },
+    {
+      "word": "信用卡",
+      "count": 2
+    },
+    {
+      "word": "账户管理",
+      "count": 2
+    },
+    {
+      "word": "抽奖",
+      "count": 2
+    },
+    {
+      "word": "长辈客户",
+      "count": 2
+    },
+    {
+      "word": "空奖",
+      "count": 2
+    },
+    {
+      "word": "虚假宣传",
+      "count": 2
+    }
+  ],
+  "records": [
+    {
+      "id": "20260510-01",
+      "date": "2025-12-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工行高频投诉问题汇总",
+      "content": "服务态度差、违规操作、账户风控争议及催收纠纷四大类问题集中。2025年因反洗钱不力等10项违规被央行重罚4396万元。",
+      "keywords": [
+        "投诉",
+        "服务态度",
+        "违规操作",
+        "账户风控",
+        "催收",
+        "央行罚款",
+        "反洗钱"
+      ],
+      "url": "",
+      "author": "股市安吉拉等",
+      "status": "未处理",
+      "amount": "4396万元",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-02",
+      "date": "2025-10-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行柜面服务差投诉",
+      "content": "客户反映网点员工态度恶劣、推诿责任，如约定时间办理业务被要求等待半小时且遭训斥，或补卡激活时被要求提供已丢失的旧卡。",
+      "keywords": [
+        "柜面服务",
+        "态度恶劣",
+        "补卡",
+        "客服"
+      ],
+      "url": "",
+      "author": "宋小春92等",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-03",
+      "date": "2025-09-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行限额管控不合理投诉",
+      "content": "用户遭遇非柜面交易额度被降至单日2万元，需亲自到网点转移全部资金，十多年老卡因此报废。",
+      "keywords": [
+        "限额",
+        "非柜面交易",
+        "额度降低",
+        "风控"
+      ],
+      "url": "",
+      "author": "小狮子佑酱等",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-04",
+      "date": "2025-08-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行私自开通业务投诉",
+      "content": "客户在银行被诱导开通保险或养老金账户，工作人员未经同意扫描用户微信开通个人养老金账户。",
+      "keywords": [
+        "私自开通",
+        "保险",
+        "养老金",
+        "诱导",
+        "开户"
+      ],
+      "url": "",
+      "author": "Anglela小红等",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-05",
+      "date": "2025-07-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行扣费争议",
+      "content": "莫名被扣信使展期服务费等费用，有用户发现账户被连续多笔资金转至陌生保险平台。",
+      "keywords": [
+        "扣费",
+        "信使展期",
+        "保险转账"
+      ],
+      "url": "",
+      "author": "凝望家长",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-06",
+      "date": "2025-06-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工行盗刷与风控失效投诉",
+      "content": "信用卡被盗刷6笔却无风险提示，投诉遭踢皮球；反洗钱漏洞致工行2023年前发生10项违规。",
+      "keywords": [
+        "盗刷",
+        "风控失效",
+        "反洗钱",
+        "信用卡"
+      ],
+      "url": "",
+      "author": "小郑蛋恩",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-07",
+      "date": "2025-05-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工行信息泄露与违规开户",
+      "content": "西安太华路支行非法获取3000余条居民信息，批量开设900多个养老金账户，最终仅提供信息的社区主任被追刑责，银行仅被约谈整改。",
+      "keywords": [
+        "信息泄露",
+        "违规开户",
+        "养老金账户",
+        "西安太华路支行"
+      ],
+      "url": "",
+      "author": "而无穷",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "high"
+    },
+    {
+      "id": "20260510-08",
+      "date": "2025-04-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行暴力催收投诉",
+      "content": "催收方辱骂持卡人亲属并威胁通知纪委，工行被指不作为；经济困难用户申请宽限还款期却遭频繁骚扰。",
+      "keywords": [
+        "暴力催收",
+        "骚扰",
+        "还款"
+      ],
+      "url": "",
+      "author": "伊娃可可可",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-09",
+      "date": "2025-03-01",
+      "publishTime": "2025年",
+      "source": "微博",
+      "sourceType": "news",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工行2025年央行重罚",
+      "content": "工行因账户管理漏洞、反洗钱失职等10项违规，被没收违法所得434.57万元并罚款3961.5万元，17名责任人被追罚2万-15万元。",
+      "keywords": [
+        "央行重罚",
+        "账户管理",
+        "反洗钱",
+        "罚款",
+        "责任人"
+      ],
+      "url": "",
+      "author": "股市安吉拉等",
+      "status": "未处理",
+      "amount": "4396万元",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "high"
+    },
+    {
+      "id": "20260510-10",
+      "date": "2024-06-01",
+      "publishTime": "2024-2026年",
+      "source": "微博",
+      "sourceType": "news",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行地方分行处罚",
+      "content": "郴州分行因违反账户管理、占压财政资金等被罚42.8万元（2026年）；上海分行因贷款资金流入资本市场、理财风控失效等被罚1390万元（2024年）。",
+      "keywords": [
+        "地方分行处罚",
+        "账户管理",
+        "贷款资金",
+        "理财风控"
+      ],
+      "url": "",
+      "author": "公民网官网",
+      "status": "未处理",
+      "amount": "1432.8万元",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-11",
+      "date": "2025-04-01",
+      "publishTime": "2025年4月",
+      "source": "微博",
+      "sourceType": "news",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行i豆贬值争议",
+      "content": "2025年4月积分体系整合后，部分用户反馈i豆相比原积分贬值约30%，引发用户不满和媒体关注。",
+      "keywords": [
+        "i豆",
+        "贬值",
+        "积分整合",
+        "媒体关注"
+      ],
+      "url": "",
+      "author": "九派新闻等",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-12",
+      "date": "2025-05-01",
+      "publishTime": "2025年",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "low",
+      "title": "工行i豆活动时效性争议",
+      "content": "部分活动需定位参与或限时开放，如月月享好礼改为抽奖后难抢；每日抽奖类活动需及时领取，逾期失效。",
+      "keywords": [
+        "i豆",
+        "活动时效",
+        "定位",
+        "限时",
+        "抽奖"
+      ],
+      "url": "",
+      "author": "多方线报等",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-13",
+      "date": "2025-06-01",
+      "publishTime": "2025年",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "neutral",
+      "riskLevel": "low",
+      "title": "工行升金有礼活动攻略类内容",
+      "content": "大量羊毛党/攻略博主发布升金有礼活动攻略，介绍短期达标法等技巧。内容以正面攻略为主，未见明显负面吐槽。",
+      "keywords": [
+        "升金有礼",
+        "攻略",
+        "羊毛党",
+        "短期达标"
+      ],
+      "url": "",
+      "author": "扒羊毛等",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "升金有礼",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-14",
+      "date": "2024-12-01",
+      "publishTime": "2024-2025年",
+      "source": "微博",
+      "sourceType": "news",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行反诈拦截成效",
+      "content": "工行多地分行通过警银联动拦截诈骗资金，2024年以来挽回客户损失超亿元。西宁分行拦截102起，挽回1154万元；南宁分行拦截800万元；厦门分行累计拦截约1亿元。",
+      "keywords": [
+        "反诈",
+        "拦截",
+        "挽回损失",
+        "警银联动"
+      ],
+      "url": "",
+      "author": "西宁晚报等",
+      "status": "已发布",
+      "amount": "超亿元",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-15",
+      "date": "2023-01-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "news",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工行内部风险案件",
+      "content": "南宁分行2.5亿存款失踪案（高管梁建红伪造存单），工行称属个人行为引发储户维权；郑州工行客户经理席薇伪造理财产品诈骗1.6亿元。",
+      "keywords": [
+        "存款失踪",
+        "伪造存单",
+        "理财产品诈骗",
+        "个人行为"
+      ],
+      "url": "",
+      "author": "现代快报等",
+      "status": "未处理",
+      "amount": "4.1亿元",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "high"
+    },
+    {
+      "id": "20260510-16",
+      "date": "2025-11-01",
+      "publishTime": "历史",
+      "source": "微博",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行风控与服务平衡争议",
+      "content": "部分用户投诉工行过度风控，非柜面交易限额降至1万元/日影响正常使用；河北邢台女子取款2.5万元遭多次核查。",
+      "keywords": [
+        "风控",
+        "限额",
+        "过度风控",
+        "取款核查"
+      ],
+      "url": "",
+      "author": "科技九洲君等",
+      "status": "未处理",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-17",
+      "date": "2026-04-29",
+      "publishTime": "2026-04-29",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "长辈客户升金有礼空奖投诉",
+      "content": "用户2026年3月参加工行长辈客户升金有礼活动，宣传提升100万得300元微信立减金，实际达标后仅允许抽奖且为空奖，客服称奖品已领完。",
+      "keywords": [
+        "升金有礼",
+        "长辈客户",
+        "空奖",
+        "立减金",
+        "虚假宣传"
+      ],
+      "url": "https://tousu.sina.cn/complaint/union_index?sn=17393587606",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "300元",
+      "relatedProduct": "升金有礼",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-18",
+      "date": "2026-05-02",
+      "publishTime": "2026-05-02",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "长辈客户升金有礼虚假宣传投诉",
+      "content": "用户参加工行长辈客户升金有礼，宣传提升一百万得300微信立减金，实际只让抽奖且为空奖，客服称领完了。",
+      "keywords": [
+        "升金有礼",
+        "长辈客户",
+        "虚假宣传",
+        "空奖",
+        "立减金"
+      ],
+      "url": "https://tousu.sina.cn/complaint/union_index?sn=17382686125",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "300元",
+      "relatedProduct": "升金有礼",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-19",
+      "date": "2026-04-02",
+      "publishTime": "2026-04-02",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工银i豆未通知自动清零",
+      "content": "用户账户约826工银i豆在2025年12月被系统自动清零，未收到任何短信/APP提醒，多次拨打95588无法接通，要求恢复或补偿。",
+      "keywords": [
+        "i豆",
+        "清零",
+        "未通知",
+        "95588"
+      ],
+      "url": "https://tousu.sina.cn/complaint/view/17395355087",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-20",
+      "date": "2026-02-06",
+      "publishTime": "2026-02-06",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行长宁支行私自清除积分",
+      "content": "用户2021年累计积分30余万，兑换消费20余万，剩余约9万积分于2026年1月底被清零，未接到任何通知。",
+      "keywords": [
+        "i豆",
+        "积分",
+        "清零",
+        "长宁支行"
+      ],
+      "url": "https://tousu.sina.cn/complaint/view/17393350252",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-21",
+      "date": "2026-02-09",
+      "publishTime": "2026-02-09",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "low",
+      "title": "工银i豆兑换美团优惠券不到账",
+      "content": "用户用30000工银i豆兑换美团优惠券，两次均未到账，手机号存在两个美团账号导致发放混乱。",
+      "keywords": [
+        "i豆",
+        "美团",
+        "优惠券",
+        "兑换",
+        "不到账"
+      ],
+      "url": "https://tousu.sina.cn/complaint/view/17393462015",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-22",
+      "date": "2025-12-01",
+      "publishTime": "2025-12-01",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "low",
+      "title": "工银金行家旗舰店不退款",
+      "content": "用户11月3日在工银i豆商城购买银质纪念币，月中未发货，月底申请退款无选项，客服仅登记不处理，要求退款后工行立即发货但朋友已拒收。",
+      "keywords": [
+        "i豆商城",
+        "纪念币",
+        "不退款",
+        "不发货"
+      ],
+      "url": "https://tousu.sina.cn/complaint/view/17390711696",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-23",
+      "date": "2026-01-30",
+      "publishTime": "2026-01-30",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "low",
+      "title": "工行信用卡年费/注销服务问题",
+      "content": "用户信用卡多年前额度归零并申请注销，工行未成功注销且于2025年底及2026年初两次收取年费98元，客服处理推诿。",
+      "keywords": [
+        "信用卡",
+        "年费",
+        "注销",
+        "客服推诿"
+      ],
+      "url": "https://tousu.sina.cn/complaint/view/17393056163",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "98元",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-24",
+      "date": "2025-05-16",
+      "publishTime": "2025-05-16",
+      "source": "信网/上观新闻等",
+      "sourceType": "news",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工行积分i豆大幅贬值遭多家媒体质疑",
+      "content": "工行2025年4月13日推行工银i豆新规，同数量i豆兑换价值较此前积分贬值约30%，多家银行也出现类似情况。全国十余家主流媒体集中报道。",
+      "keywords": [
+        "i豆",
+        "积分",
+        "贬值",
+        "媒体集中报道",
+        "消保"
+      ],
+      "url": "https://www.jfdaily.com/news/detail?id=911293",
+      "author": "信网等",
+      "status": "已报道",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "high"
+    },
+    {
+      "id": "20260510-25",
+      "date": "2025-12-20",
+      "publishTime": "2025-12-20",
+      "source": "什么值得买",
+      "sourceType": "forum",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行i豆活动被质疑为营销噱头",
+      "content": "用户观点碰撞，反对者认为i豆兑换比例不利、短期有效期、潜在贬值风险，高价值奖励门槛过高，普通用户难获实惠。",
+      "keywords": [
+        "i豆",
+        "营销噱头",
+        "兑换比例",
+        "门槛高"
+      ],
+      "url": "https://post.smzdm.com/p/a9krrqlo",
+      "author": "什么值得买用户",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-26",
+      "date": "2025-04-13",
+      "publishTime": "2025-04-13",
+      "source": "什么值得买",
+      "sourceType": "forum",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行积分升级i豆后贬值约28%",
+      "content": "积分升级i豆后兑换比例从720:1/734:1/800:1升至1000:1，兑换立减金贬值约28%。用户呼吁落袋为安。",
+      "keywords": [
+        "i豆",
+        "贬值",
+        "兑换比例",
+        "立减金"
+      ],
+      "url": "https://post.smzdm.com/p/a34dvkek/",
+      "author": "什么值得买用户",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-27",
+      "date": "2026-03-20",
+      "publishTime": "2026-03-20",
+      "source": "什么值得买",
+      "sourceType": "forum",
+      "sentiment": "negative",
+      "riskLevel": "low",
+      "title": "积分兑年费实际价值已缩水",
+      "content": "16万i豆兑2000元年费账面价值为1000豆/元，但因i豆大幅贬值，实际价值已低于年费面值，建议优先选择消费达标免年费。",
+      "keywords": [
+        "i豆",
+        "兑年费",
+        "缩水"
+      ],
+      "url": "https://post.smzdm.com/p/a03kl3pr",
+      "author": "什么值得买用户",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-28",
+      "date": "2025-09-15",
+      "publishTime": "2025-09-15",
+      "source": "信网",
+      "sourceType": "news",
+      "sentiment": "negative",
+      "riskLevel": "low",
+      "title": "工行手机银行话费充值门槛高",
+      "content": "工行App话费充值最低100元起充，输入手机号后小额选项消失，用户应急需求遇阻，律师指出可能侵害消费者选择权。",
+      "keywords": [
+        "手机银行",
+        "话费充值",
+        "门槛高",
+        "消费者选择权"
+      ],
+      "url": "https://t.cj.sina.cn/articles/view/5281491251/13acd293302001n7fm",
+      "author": "信网",
+      "status": "已报道",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-29",
+      "date": "2025-08-28",
+      "publishTime": "2025-08-28",
+      "source": "华盛通",
+      "sourceType": "news",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "上海市民吐槽被开户",
+      "content": "地推人员以扫码关注送玩偶为由诱导开通工行个人养老金账户，银行员工面临开户指标重压，地推团队构建外包推广链条。",
+      "keywords": [
+        "被开户",
+        "养老金",
+        "地推",
+        "诱导"
+      ],
+      "url": "https://www.hstong.com/news/detail/25021012321156234",
+      "author": "华盛通",
+      "status": "已报道",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-30",
+      "date": "2025-04-20",
+      "publishTime": "2025-04-20",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "low",
+      "title": "工银i豆商城代金券变红包",
+      "content": "用户用工银i豆兑换美团外卖代金券，实际到账为红包，两者在美团外卖App中严格区分、使用场景不同。",
+      "keywords": [
+        "i豆商城",
+        "代金券",
+        "红包",
+        "美团"
+      ],
+      "url": "https://tousu.sina.cn/complaint/view/17382113134",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "recency": "历史",
+      "fermentation": "low"
+    },
+    {
+      "id": "20260510-31",
+      "date": "2026-03-08",
+      "publishTime": "2026-03-08",
+      "source": "赚客新吧",
+      "sourceType": "forum",
+      "sentiment": "negative",
+      "riskLevel": "medium",
+      "title": "工行升金有礼空包论坛讨论",
+      "content": "论坛用户反映工行升金有礼抽奖获得空包（无奖励），客服回复下月补发，用户讨论投诉进展。",
+      "keywords": [
+        "升金有礼",
+        "空包",
+        "论坛",
+        "抽奖"
+      ],
+      "url": "https://www.hxm5.com/t/2834620",
+      "author": "赚客新吧用户",
+      "status": "讨论中",
+      "amount": "-",
+      "relatedProduct": "升金有礼",
+      "recency": "历史",
+      "fermentation": "medium"
+    },
+    {
+      "id": "20260510-32",
+      "date": "2026-01-27",
+      "publishTime": "2026-01-27",
+      "source": "黑猫投诉",
+      "sourceType": "complaint",
+      "sentiment": "negative",
+      "riskLevel": "low",
+      "title": "工行新疆分行升金有礼活动入口消失",
+      "content": "用户参加工行新疆分行月月升金礼和骐骥送福活动，达标后活动入口消失或提示对特定客户开放，已中奖的66元立减金也无法领取。",
+      "keywords": [
+        "升金有礼",
+        "新疆分行",
+        "入口消失",
+        "特定客户"
+      ],
+      "url": "https://tousu.sina.cn/complaint/view/17392965237",
+      "author": "黑猫投诉用户",
+      "status": "投诉中",
+      "amount": "66元",
+      "relatedProduct": "升金有礼",
+      "recency": "历史",
+      "fermentation": "low"
+    }
+  ]
+}

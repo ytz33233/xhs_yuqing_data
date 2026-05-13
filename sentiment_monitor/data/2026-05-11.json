@@ -280,28 +280,6 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260511-18",
-      "date": "2026-05-11",
-      "publishTime": "2026-05-11",
-      "source": "小红书",
-      "sourceType": "xiaohongshu",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "今天中了66666工行i豆！",
-      "content": "今天中了66666工行i豆！",
-      "url": "https://www.xiaohongshu.com/explore/69cc9481000000001a02aea2",
-      "author": "pic小鬼怪",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆活动",
-      "fetchTime": "2026-05-11T22:13:25.690957",
-      "recency": "历史",
-      "keywords": [
-        "i豆"
-      ],
-      "channel": "xiaohongshu"
-    },
-    {
       "id": "20260511-19",
       "date": "2026-05-11",
       "publishTime": "2026-05-11",
@@ -654,29 +632,6 @@
       "channel": "xiaohongshu"
     },
     {
-      "id": "20260511-37",
-      "date": "2026-05-11",
-      "publishTime": "2026-05-11",
-      "source": "小红书",
-      "sourceType": "xiaohongshu",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行福利来咯！爽吃12000i豆！",
-      "content": "工行福利来咯！爽吃12000i豆！",
-      "url": "https://www.xiaohongshu.com/explore/69fea5ab0000000037035bc4",
-      "author": "致远的羊毛日常",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆活动",
-      "fetchTime": "2026-05-11T22:13:50.007845",
-      "recency": "历史",
-      "keywords": [
-        "i豆",
-        "福利"
-      ],
-      "channel": "xiaohongshu"
-    },
-    {
       "id": "20260511-39",
       "date": "2026-05-11",
       "publishTime": "2026-05-11",
@@ -740,29 +695,6 @@
       "recency": "历史",
       "keywords": [
         "i豆"
-      ],
-      "channel": "xiaohongshu"
-    },
-    {
-      "id": "20260511-42",
-      "date": "2026-05-11",
-      "publishTime": "2026-05-11",
-      "source": "小红书",
-      "sourceType": "xiaohongshu",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行2月升金和资产达标门槛降低奖励加码",
-      "content": "工行2月升金和资产达标门槛降低奖励加码",
-      "url": "https://www.xiaohongshu.com/explore/6980aeb5000000002103edff",
-      "author": "momomama",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-05-11T22:13:25.690957",
-      "recency": "历史",
-      "keywords": [
-        "资产达标",
-        "奖励"
       ],
       "channel": "xiaohongshu"
     },

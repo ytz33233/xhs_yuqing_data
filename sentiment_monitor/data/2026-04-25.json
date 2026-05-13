@@ -29,7 +29,7 @@
       "extra": {
         "account_name": "卡圈活动羊毛"
       },
-      "relevance_score": 129.0,
+      "relevance_score": 129,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 1.2375,
@@ -47,7 +47,7 @@
       "extra": {
         "account_name": "流量日记"
       },
-      "relevance_score": 103.0,
+      "relevance_score": 103,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 1.2375,
@@ -70,7 +70,7 @@
       "extra": {
         "feed_id": "69cbf51a000000002301d0b9"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8559,
@@ -93,7 +93,7 @@
       "extra": {
         "feed_id": "698c8a21000000000a02f957"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8521,
@@ -116,7 +116,7 @@
       "extra": {
         "feed_id": "69a390be000000001a02f4c6"
       },
-      "relevance_score": 48.0,
+      "relevance_score": 48,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8404,
@@ -139,7 +139,7 @@
       "extra": {
         "feed_id": "69eab87b0000000022025642"
       },
-      "relevance_score": 33.0,
+      "relevance_score": 33,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8402,
@@ -162,7 +162,7 @@
       "extra": {
         "feed_id": "69cc9481000000001a02aea2"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8372,
@@ -185,7 +185,7 @@
       "extra": {
         "feed_id": "69c9f233000000002301c7ac"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8329,
@@ -208,7 +208,7 @@
       "extra": {
         "feed_id": "67fcaf39000000001c01e326"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8295,
@@ -231,7 +231,7 @@
       "extra": {
         "feed_id": "69b7c8e5000000001a021c65"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8292,
@@ -254,7 +254,7 @@
       "extra": {
         "feed_id": "69a42a54000000002603dbc4"
       },
-      "relevance_score": 81.0,
+      "relevance_score": 81,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.829,
@@ -277,7 +277,7 @@
       "extra": {
         "feed_id": "67fb5924000000001b03e734"
       },
-      "relevance_score": 33.0,
+      "relevance_score": 33,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.828,
@@ -300,7 +300,7 @@
       "extra": {
         "feed_id": "69ccd7520000000023023a9d"
       },
-      "relevance_score": 89.0,
+      "relevance_score": 89,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8276,
@@ -323,7 +323,7 @@
       "extra": {
         "feed_id": "69a51f3900000000280234b9"
       },
-      "relevance_score": 81.0,
+      "relevance_score": 81,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8272,
@@ -346,7 +346,7 @@
       "extra": {
         "feed_id": "68ecb3ef000000000301aae0"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8271,
@@ -369,7 +369,7 @@
       "extra": {
         "feed_id": "69a83b38000000001a0286e1"
       },
-      "relevance_score": 33.0,
+      "relevance_score": 33,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8271,
@@ -392,7 +392,7 @@
       "extra": {
         "feed_id": "69d84cd5000000002003b0e8"
       },
-      "relevance_score": 81.0,
+      "relevance_score": 81,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8269,
@@ -415,7 +415,7 @@
       "extra": {
         "feed_id": "69cc9c4c000000002103b16c"
       },
-      "relevance_score": 81.0,
+      "relevance_score": 81,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8268,
@@ -438,7 +438,7 @@
       "extra": {
         "feed_id": "69d86a5c0000000021007dc0"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.826,
@@ -461,7 +461,7 @@
       "extra": {
         "feed_id": "6936d0c3000000001e009b6e"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8259,
@@ -484,7 +484,7 @@
       "extra": {
         "feed_id": "683fd5ca0000000021007432"
       },
-      "relevance_score": 81.0,
+      "relevance_score": 81,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8256,
@@ -507,7 +507,7 @@
       "extra": {
         "feed_id": "693eeb2f000000001e0207ab"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.8252,
@@ -525,7 +525,7 @@
       "extra": {
         "account_name": "嗨皮撸毛"
       },
-      "relevance_score": 65.0,
+      "relevance_score": 65,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -543,7 +543,7 @@
       "extra": {
         "account_name": "买卖权益吖"
       },
-      "relevance_score": 87.0,
+      "relevance_score": 87,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -561,7 +561,7 @@
       "extra": {
         "account_name": "希凌随想录"
       },
-      "relevance_score": 96.0,
+      "relevance_score": 96,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -579,7 +579,7 @@
       "extra": {
         "account_name": "三木羊毛乐园"
       },
-      "relevance_score": 81.0,
+      "relevance_score": 81,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -597,7 +597,7 @@
       "extra": {
         "account_name": "建德卡友之家"
       },
-      "relevance_score": 108.0,
+      "relevance_score": 108,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -615,7 +615,7 @@
       "extra": {
         "account_name": "李财经李"
       },
-      "relevance_score": 111.0,
+      "relevance_score": 111,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -633,7 +633,7 @@
       "extra": {
         "account_name": "买卖权益吖"
       },
-      "relevance_score": 83.0,
+      "relevance_score": 83,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -651,7 +651,7 @@
       "extra": {
         "account_name": "羊毛大杂荟"
       },
-      "relevance_score": 68.0,
+      "relevance_score": 68,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -669,7 +669,7 @@
       "extra": {
         "account_name": "钱江晚报"
       },
-      "relevance_score": 57.0,
+      "relevance_score": 57,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -687,7 +687,7 @@
       "extra": {
         "account_name": "羊毛大杂荟"
       },
-      "relevance_score": 68.0,
+      "relevance_score": 68,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -705,7 +705,7 @@
       "extra": {
         "account_name": "卡旅指南"
       },
-      "relevance_score": 47.0,
+      "relevance_score": 47,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -723,7 +723,7 @@
       "extra": {
         "account_name": "武汉福利活动"
       },
-      "relevance_score": 83.0,
+      "relevance_score": 83,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -741,7 +741,7 @@
       "extra": {
         "account_name": "618互助"
       },
-      "relevance_score": 78.0,
+      "relevance_score": 78,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -759,7 +759,7 @@
       "extra": {
         "account_name": "婉婉教你省钱"
       },
-      "relevance_score": 80.0,
+      "relevance_score": 80,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -777,7 +777,7 @@
       "extra": {
         "account_name": "荷包守护者"
       },
-      "relevance_score": 52.0,
+      "relevance_score": 52,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -795,7 +795,7 @@
       "extra": {
         "account_name": "壁纸写真集"
       },
-      "relevance_score": 52.0,
+      "relevance_score": 52,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.825,
@@ -818,7 +818,7 @@
       "extra": {
         "feed_id": "68005059000000000f03324f"
       },
-      "relevance_score": 66.0,
+      "relevance_score": 66,
       "category": "活动反馈",
       "sentiment": "positive",
       "priority": 0.6944,
@@ -836,7 +836,7 @@
       "extra": {
         "account_name": "全网分享达人"
       },
-      "relevance_score": 105.0,
+      "relevance_score": 105,
       "category": "活动反馈",
       "sentiment": "positive",
       "priority": 0.69,
@@ -854,7 +854,7 @@
       "extra": {
         "account_name": "玩卡肥龙"
       },
-      "relevance_score": 87.0,
+      "relevance_score": 87,
       "category": "活动反馈",
       "sentiment": "positive",
       "priority": 0.69,
@@ -877,7 +877,7 @@
       "extra": {
         "feed_id": "681d904c0000000021005c21"
       },
-      "relevance_score": 17.0,
+      "relevance_score": 17,
       "category": "品牌形象",
       "sentiment": "neutral",
       "priority": 0.5792,
@@ -900,7 +900,7 @@
       "extra": {
         "feed_id": "69cc72e7000000002102fe5e"
       },
-      "relevance_score": 33.0,
+      "relevance_score": 33,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.5531,
@@ -923,7 +923,7 @@
       "extra": {
         "feed_id": "69532028000000001e00757e"
       },
-      "relevance_score": 48.0,
+      "relevance_score": 48,
       "category": "活动反馈",
       "sentiment": "neutral",
       "priority": 0.5504,
@@ -946,7 +946,7 @@
       "extra": {
         "feed_id": "69aa3b99000000001a027c34"
       },
-      "relevance_score": 9.0,
+      "relevance_score": 9,
       "category": "品牌形象",
       "sentiment": "negative",
       "priority": 0.4224,
@@ -969,7 +969,7 @@
       "extra": {
         "feed_id": "68254c7a0000000021007a4c"
       },
-      "relevance_score": 18.0,
+      "relevance_score": 18,
       "category": "品牌形象",
       "sentiment": "neutral",
       "priority": 0.4018,
@@ -992,7 +992,7 @@
       "extra": {
         "feed_id": "69911ab7000000000e00f3e7"
       },
-      "relevance_score": 9.0,
+      "relevance_score": 9,
       "category": "品牌形象",
       "sentiment": "neutral",
       "priority": 0.3018,
@@ -1015,7 +1015,7 @@
       "extra": {
         "feed_id": "684e2a14000000002100fac9"
       },
-      "relevance_score": 9.0,
+      "relevance_score": 9,
       "category": "品牌形象",
       "sentiment": "neutral",
       "priority": 0.2966,
@@ -1038,11 +1038,12 @@
       "extra": {
         "feed_id": "67c853c1000000000d0141b7"
       },
-      "relevance_score": 9.0,
+      "relevance_score": 9,
       "category": "品牌形象",
       "sentiment": "neutral",
       "priority": 0.2737,
       "is_icbc_related": true
     }
-  ]
+  ],
+  "records": []
 }

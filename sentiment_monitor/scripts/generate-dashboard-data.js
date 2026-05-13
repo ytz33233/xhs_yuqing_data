@@ -11,6 +11,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const dedup = require('./dedup-utils.js');
 
 const WORKSPACE = '/root/.openclaw/workspace';
 const DATA_DIR = path.join(WORKSPACE, 'sentiment_monitor', 'data');
@@ -268,7 +269,10 @@ function finalizeRecord(record, fetchDateStr, defaultSourceType) {
     record.relatedProduct = inferProduct(record.title, record.content);
     record.keywords = extractKeywords(record.title, record.content);
     record.amount = record.amount || extractAmount(record.content);
-    record.recency = record.recency || '历史';
+    if (!record.recency) {
+        const rDate = (record.date || '').toString().slice(0, 10);
+        record.recency = (rDate === fetchDateStr) ? '24h内' : '历史';
+    }
     record.status = '未处理';
     record.fermentation = record.fermentation || 'low';
 
@@ -286,6 +290,107 @@ function finalizeRecord(record, fetchDateStr, defaultSourceType) {
     record.url = record.url || '';
 }
 
+// 微博情感推断（基于关键词）
+function inferWeiboSentiment(text) {
+    const t = (text || '').toLowerCase();
+    const negativeWords = ['投诉', '维权', '虚假宣传', '谢谢参与', '空奖', '骗', '坑', '垃圾', '差', '烂', '被骗', '套路', '恶心', '失望', '愤怒', '差评', '吐槽', '坑人', '忽悠', '诈骗', '假货', '不满', '后悔', '坑爹', '坑死', '无语', '气死', '流氓', '黑幕', '曝光'];
+    const positiveWords = ['好评', '不错', '推荐', '赞', '满意', '给力', '棒', '好用', '划算', '超值', '完美', '优秀', '惊喜', '开心', '高兴', '愉快', '实惠', '羊毛', '攻略', '必中'];
+    if (negativeWords.some(w => t.includes(w))) return 'negative';
+    if (positiveWords.some(w => t.includes(w))) return 'positive';
+    return 'neutral';
+}
+
+// 解析微博 JSON 文件（支持 v2 MCP 格式和旧格式）
+function parseWeiboJsonFile(filePath, fetchDateStr) {
+    if (!fs.existsSync(filePath)) return [];
+
+    try {
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        let posts = [];
+
+        // v2 格式: all_posts 数组
+        if (Array.isArray(data.all_posts)) {
+            posts = data.all_posts;
+        }
+        // 旧格式: results 数组
+        else if (Array.isArray(data.results)) {
+            posts = data.results;
+        }
+        // keyword_results 对象格式
+        else if (data.keyword_results && typeof data.keyword_results === 'object') {
+            for (const kw in data.keyword_results) {
+                const arr = data.keyword_results[kw];
+                if (Array.isArray(arr)) posts.push(...arr);
+            }
+        }
+        // 直接是数组
+        else if (Array.isArray(data)) {
+            posts = data;
+        }
+
+        if (posts.length === 0) return [];
+
+        const records = [];
+        for (const post of posts) {
+            if (!post || !post.text) continue;
+
+            const text = post.text.trim();
+            const title = text.length > 40 ? text.slice(0, 40) + '...' : text;
+
+            // 情感推断
+            const sentimentRaw = inferWeiboSentiment(text);
+
+            // 日期解析
+            let publishTime = post.created_at || '';
+            let parsedDate = parseDateFromText(publishTime);
+
+            // URL 构建
+            let url = post.url || '';
+            if (!url && post.user_id && post.id && post.id !== 'unknown') {
+                url = `https://weibo.com/${post.user_id}/${post.id}`;
+            }
+
+            // recency 判断：基于实际时间差（小时），≤24h 才算 24h内
+            let recency = '历史';
+            const now = new Date();
+            if (publishTime && publishTime !== 'unknown') {
+                const pubTime = new Date(publishTime);
+                if (!isNaN(pubTime)) {
+                    const hoursDiff = (now - pubTime) / 3600000;
+                    if (hoursDiff >= 0 && hoursDiff <= 24) {
+                        recency = '24h内';
+                    }
+                } else if (parsedDate === fetchDateStr) {
+                    recency = '24h内';
+                }
+            } else if (parsedDate === fetchDateStr) {
+                recency = '24h内';
+            }
+
+            const record = {
+                title: title,
+                content: text,
+                source: post.user || '微博用户',
+                publishTime: publishTime || fetchDateStr,
+                sentimentRaw: sentimentRaw,
+                url: url,
+                likes: post.likes || 0,
+                comments: post.comments || 0,
+                favorites: post.reposts || 0,
+                recency: recency
+            };
+
+            finalizeRecord(record, fetchDateStr, 'social');
+            records.push(record);
+        }
+
+        return records;
+    } catch (e) {
+        console.log(`⚠️  微博 JSON 解析失败: ${e.message}`);
+        return [];
+    }
+}
+
 // ===== 活动相关筛选 =====
 const ACTIVITY_KEYWORDS = ['升金有礼', 'i豆', '资产达标', '月月升金', '立减金', '抽奖'];
 
@@ -296,22 +401,38 @@ function isActivityRelated(record) {
 }
 
 // ===== 合并去重 =====
-function mergeRecords(recordLists) {
+function mergeRecords(recordLists, dateStr) {
     const all = recordLists.flat();
-    const seen = new Map(); // key -> record
 
-    for (const r of all) {
-        // 去重键：标题前20字 + 来源前10字
+    // 1. 加载历史 URL 索引和记录（用于跨天去重）
+    const urlIndex = dedup.loadHistoricalUrlIndex(DATA_DIR, dateStr, 30);
+    const historicalRecords = [];
+    const end = new Date(dateStr);
+    for (let i = 1; i <= 30; i++) {
+        const d = new Date(end);
+        d.setDate(d.getDate() - i);
+        const ds = formatDate(d);
+        const filePath = path.join(DATA_DIR, `${ds}.json`);
+        if (!fs.existsSync(filePath)) continue;
+        try {
+            const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            if (data.records) historicalRecords.push(...data.records);
+        } catch (e) {}
+    }
+
+    // 2. 使用 dedup-utils 进行三层去重
+    const deduped = dedup.deduplicateRecords(all, historicalRecords, urlIndex);
+
+    // 3. 保留旧的单日内部去重逻辑作为兜底（防止同日多源重复）
+    const seen = new Map();
+    for (const r of deduped) {
         const key = (r.title || '').slice(0, 20) + '|' + (r.source || '').slice(0, 10);
         if (seen.has(key)) {
             const existing = seen.get(key);
-            // 保留信息更完整的（content 更长）
             if ((r.content || '').length > (existing.content || '').length) {
-                // 合并来源
-                if (r.source !== existing.source) {
+                if (r.source !== existing.source && existing.source.indexOf(r.source) === -1) {
                     existing.source = existing.source + '、' + r.source;
                 }
-                // 合并关键词
                 const mergedKw = new Set([...(existing.keywords || []), ...(r.keywords || [])]);
                 existing.keywords = Array.from(mergedKw).slice(0, 5);
                 existing.content = r.content;
@@ -387,6 +508,52 @@ function computeHotKeywords(records) {
         .sort((a, b) => b[1] - a[1])
         .slice(0, 10)
         .map(([word, count]) => ({ word, count }));
+}
+
+// ===== 每日简报生成 =====
+function generateDailyBrief(dateStr, stats, records, hotKeywords) {
+    const s = stats.summary;
+    const total = s.total;
+    const neg = s.negativeCount;
+    const pos = s.positiveCount;
+    const neu = s.neutralCount;
+    const recent = s.recentCount;
+    const highRisk = s.highRiskCount;
+
+    const prodMap = {};
+    const srcMap = {};
+    records.forEach(r => {
+        const p = r.relatedProduct || '其他';
+        prodMap[p] = (prodMap[p] || 0) + 1;
+        srcMap[r.sourceType] = (srcMap[r.sourceType] || 0) + 1;
+    });
+    const topProd = Object.entries(prodMap).sort((a, b) => b[1] - a[1]).slice(0, 2).map(x => x[0]);
+    const topSrc = Object.entries(srcMap).sort((a, b) => b[1] - a[1]).slice(0, 2).map(x => {
+        const labels = { social: '微博', news: '新闻媒体', complaint: '投诉平台', forum: '论坛社区', official: '官方', xiaohongshu: '小红书' };
+        return labels[x[0]] || x[0];
+    });
+    const topKw = (hotKeywords || []).slice(0, 3).map(k => k.word);
+
+    let text = '';
+    if (total === 0) {
+        text = `今日（${dateStr}）暂无相关舆情数据。`;
+    } else {
+        text = `今日（${dateStr}）共采集 ${total} 条舆情，其中负面 ${neg} 条`;
+        if (pos > 0) text += `，正面 ${pos} 条`;
+        if (neu > 0) text += `，中性 ${neu} 条`;
+        text += `。`;
+        if (recent > 0) text += `24小时内新增 ${recent} 条。`;
+        if (highRisk > 0) text += `发现 ${highRisk} 条高风险舆情，需重点关注。`;
+        text += `主要集中在「${topProd.join('、')}」等产品，来源以${topSrc.join('、')}为主`;
+        if (topKw.length > 0) text += `，热词包括「${topKw.join('、')}」`;
+        text += `。`;
+    }
+
+    return {
+        text: text,
+        date: dateStr,
+        generatedAt: new Date().toISOString()
+    };
 }
 
 // ===== 加载历史数据用于趋势回填 =====
@@ -567,15 +734,20 @@ function main() {
 
     // 1. 解析所有中间文件
     const webFile = path.join(DAILY_DIR, `web-${dateStr}.md`);
-    const weiboFile = path.join(DAILY_DIR, `weibo-${dateStr}.md`);
+    const weiboMdFile = path.join(DAILY_DIR, `weibo-${dateStr}.md`);
+    const weiboJsonFile = path.join(DAILY_DIR, `weibo-${dateStr}.json`);
     const hotFile = path.join(DAILY_DIR, `hot-${dateStr}.md`);
 
     const webRecords = parseMdFile(webFile, dateStr);
-    const weiboRecords = parseMdFile(weiboFile, dateStr);
+    // 优先尝试 JSON 格式（v2 MCP 版本），fallback 到 Markdown
+    let weiboRecords = parseWeiboJsonFile(weiboJsonFile, dateStr);
+    if (weiboRecords.length === 0) {
+        weiboRecords = parseMdFile(weiboMdFile, dateStr);
+    }
     const hotRecords = parseMdFile(hotFile, dateStr);
 
     console.log(`📄 web: ${webRecords.length}条`);
-    console.log(`📄 weibo: ${weiboRecords.length}条`);
+    console.log(`📄 weibo: ${weiboRecords.length}条 (JSON优先)`);
     console.log(`📄 hot: ${hotRecords.length}条`);
 
     // 1.5 拉取小红书数据（如果存在）
@@ -593,9 +765,9 @@ function main() {
         console.log(`📕 xhs: 无数据文件`);
     }
 
-    // 2. 合并去重（加入小红书数据）
-    let allRecords = mergeRecords([webRecords, weiboRecords, hotRecords, xhsRecords]);
-    console.log(`🔄 合并后: ${allRecords.length}条`);
+    // 2. 合并去重（加入小红书数据，跨30天历史去重）
+    let allRecords = mergeRecords([webRecords, weiboRecords, hotRecords, xhsRecords], dateStr);
+    console.log(`🔄 合并去重后: ${allRecords.length}条`);
 
     // 3. 活动相关筛选
     const activityRecords = allRecords.filter(isActivityRelated);
@@ -633,7 +805,10 @@ function main() {
     const allForTrend = [...historicalForTrend, ...finalRecords];
     const trend7d = computeTrend(allForTrend, dateStr);
 
-    // 8. 组装 JSON
+    // 8. 生成每日简报
+    const dailyBrief = generateDailyBrief(dateStr, stats, finalRecords, hotKeywords);
+
+    // 9. 组装 JSON
     const report = {
         reportDate: dateStr,
         generatedAt: `${dateStr} ${new Date().toTimeString().slice(0, 5)}`,
@@ -646,6 +821,7 @@ function main() {
         byCategory: stats.byCategory,
         trend7d,
         hotKeywords,
+        dailyBrief,
         records: finalRecords
     };
 
