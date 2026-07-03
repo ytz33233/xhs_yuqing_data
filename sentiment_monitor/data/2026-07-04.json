@@ -1,36 +1,36 @@
 {
   "reportDate": "2026-07-04",
-  "generatedAt": "2026-07-04 02:01",
+  "generatedAt": "2026-07-04 02:05",
   "summary": {
-    "total": 89,
+    "total": 88,
     "negativeCount": 7,
     "negativePct": 8,
-    "positiveCount": 14,
-    "neutralCount": 68,
+    "positiveCount": 17,
+    "neutralCount": 64,
     "channelCount": 1,
     "highRiskCount": 0
   },
   "bySource": {
-    "social": 89,
+    "social": 88,
     "news": 0,
     "complaint": 0,
     "forum": 0,
     "official": 0
   },
   "bySentiment": {
-    "positive": 14,
+    "positive": 17,
     "negative": 7,
-    "neutral": 68
+    "neutral": 64
   },
   "byRisk": {
     "high": 0,
     "medium": 0,
-    "low": 89
+    "low": 88
   },
   "byProduct": {
     "i豆活动": 25,
     "升金有礼": 3,
-    "其他": 60,
+    "其他": 59,
     "积分兑换": 1
   },
   "trend7d": [
@@ -66,7 +66,7 @@
     },
     {
       "date": "2026-07-04",
-      "total": 89,
+      "total": 88,
       "negative": 7
     }
   ],
@@ -124,7 +124,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:59:07.005472",
+      "fetchTime": "2026-07-04T02:02:40.706304",
       "engagement": {
         "likes": "44",
         "comments": "30",
@@ -147,7 +147,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "升金有礼",
-      "fetchTime": "2026-07-04T01:55:22.834041",
+      "fetchTime": "2026-07-04T01:58:42.379436",
       "engagement": {
         "likes": "0",
         "comments": "5",
@@ -170,7 +170,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆乐园",
-      "fetchTime": "2026-07-04T01:56:02.627322",
+      "fetchTime": "2026-07-04T01:59:11.868689",
       "engagement": {
         "likes": "129",
         "comments": "222",
@@ -193,7 +193,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:59:07.005617",
+      "fetchTime": "2026-07-04T02:02:40.706325",
       "engagement": {
         "likes": "133",
         "comments": "139",
@@ -262,7 +262,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T02:00:35.522167",
+      "fetchTime": "2026-07-04T01:59:11.868817",
       "engagement": {
         "likes": "81",
         "comments": "111",
@@ -285,7 +285,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:59:51.555398",
+      "fetchTime": "2026-07-04T02:03:16.895284",
       "engagement": {
         "likes": "23",
         "comments": "56",
@@ -308,7 +308,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T02:00:35.522223",
+      "fetchTime": "2026-07-04T02:03:58.478883",
       "engagement": {
         "likes": "38",
         "comments": "10",
@@ -331,7 +331,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆乐园",
-      "fetchTime": "2026-07-04T01:58:36.333350",
+      "fetchTime": "2026-07-04T02:02:12.474715",
       "engagement": {
         "likes": "14",
         "comments": "40",
@@ -354,7 +354,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:56:02.627423",
+      "fetchTime": "2026-07-04T01:59:59.767738",
       "engagement": {
         "likes": "16",
         "comments": "9",
@@ -377,7 +377,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:58:36.333399",
+      "fetchTime": "2026-07-04T02:02:12.474811",
       "engagement": {
         "likes": "10",
         "comments": "8",
@@ -400,7 +400,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆乐园",
-      "fetchTime": "2026-07-04T01:58:36.333315",
+      "fetchTime": "2026-07-04T02:02:12.474652",
       "engagement": {
         "likes": "5",
         "comments": "23",
@@ -423,7 +423,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:59:07.005606",
+      "fetchTime": "2026-07-04T02:02:40.706424",
       "engagement": {
         "likes": "4",
         "comments": "18",
@@ -446,7 +446,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "升金有礼",
-      "fetchTime": "2026-07-04T01:55:22.834097",
+      "fetchTime": "2026-07-04T01:58:42.379442",
       "engagement": {
         "likes": "4",
         "comments": "15",
@@ -469,7 +469,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:56:02.627479",
+      "fetchTime": "2026-07-04T01:59:11.868949",
       "engagement": {
         "likes": "1",
         "comments": "13",
@@ -492,7 +492,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:56:02.627350",
+      "fetchTime": "2026-07-04T01:59:11.868775",
       "engagement": {
         "likes": "2",
         "comments": "12",
@@ -515,7 +515,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:59:07.005595",
+      "fetchTime": "2026-07-04T02:02:40.706413",
       "engagement": {
         "likes": "0",
         "comments": "12",
@@ -538,7 +538,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆乐园",
-      "fetchTime": "2026-07-04T01:58:36.333423",
+      "fetchTime": "2026-07-04T02:02:12.474797",
       "engagement": {
         "likes": "0",
         "comments": "9",
@@ -561,7 +561,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:56:02.627359",
+      "fetchTime": "2026-07-04T01:59:11.868787",
       "engagement": {
         "likes": "2",
         "comments": "4",
@@ -584,7 +584,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:47.031024",
+      "fetchTime": "2026-07-04T01:59:59.767767",
       "engagement": {
         "likes": "1",
         "comments": "5",
@@ -607,7 +607,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "升金有礼",
-      "fetchTime": "2026-07-04T01:55:22.833903",
+      "fetchTime": "2026-07-04T01:58:42.379384",
       "engagement": {
         "likes": "3",
         "comments": "2",
@@ -630,7 +630,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:56:02.627430",
+      "fetchTime": "2026-07-04T01:59:11.868897",
       "engagement": {
         "likes": "6",
         "comments": "0",
@@ -653,7 +653,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:59:07.005572",
+      "fetchTime": "2026-07-04T02:02:40.706378",
       "engagement": {
         "likes": "2",
         "comments": "3",
@@ -663,29 +663,6 @@
     },
     {
       "id": "20260704-25",
-      "date": "昨天 21:43",
-      "publishTime": "昨天 21:43",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "7.3工行抽多多多i豆！！！",
-      "content": "7.3工行抽多多多i豆！！！",
-      "url": "https://www.xiaohongshu.com/explore/6a47bc9700000000160244dd",
-      "author": "小V想发财",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:56:02.627398",
-      "engagement": {
-        "likes": "1",
-        "comments": "0",
-        "collects": "1",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20260704-26",
       "date": "昨天 22:22",
       "publishTime": "昨天 22:22",
       "source": "小红书",
@@ -699,7 +676,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:56:02.627436",
+      "fetchTime": "2026-07-04T01:59:11.868887",
       "engagement": {
         "likes": "2",
         "comments": "0",
@@ -708,7 +685,7 @@
       }
     },
     {
-      "id": "20260704-27",
+      "id": "20260704-26",
       "date": "2026-04-27",
       "publishTime": "2026-04-27",
       "source": "小红书",
@@ -722,7 +699,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:59:07.005676",
+      "fetchTime": "2026-07-04T02:02:40.706463",
       "engagement": {
         "likes": "0",
         "comments": "1",
@@ -731,7 +708,7 @@
       }
     },
     {
-      "id": "20260704-28",
+      "id": "20260704-27",
       "date": "2026-06-21",
       "publishTime": "2026-06-21",
       "source": "小红书",
@@ -745,7 +722,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:56:02.627383",
+      "fetchTime": "2026-07-04T01:59:11.868736",
       "engagement": {
         "likes": "88",
         "comments": "201",
@@ -754,7 +731,7 @@
       }
     },
     {
-      "id": "20260704-29",
+      "id": "20260704-28",
       "date": "2025-06-03",
       "publishTime": "2025-06-03",
       "source": "小红书",
@@ -768,7 +745,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T01:58:36.333371",
+      "fetchTime": "2026-07-04T02:02:12.474752",
       "engagement": {
         "likes": "102",
         "comments": "30",
@@ -777,7 +754,7 @@
       }
     },
     {
-      "id": "20260704-30",
+      "id": "20260704-29",
       "date": "2026-06-15",
       "publishTime": "2026-06-15",
       "source": "小红书",
@@ -791,12 +768,35 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "i豆活动",
-      "fetchTime": "2026-07-04T02:00:35.522192",
+      "fetchTime": "2026-07-04T02:03:58.478913",
       "engagement": {
         "likes": "105",
         "comments": "52",
         "collects": "50",
         "shares": "32"
+      }
+    },
+    {
+      "id": "20260704-30",
+      "date": "昨天 21:43",
+      "publishTime": "昨天 21:43",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "7.3工行抽多多多i豆！！！",
+      "content": "7.3工行抽多多多i豆！！！",
+      "url": "https://www.xiaohongshu.com/explore/6a47bc9700000000160244dd",
+      "author": "小V想发财",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "fetchTime": "2026-07-04T01:59:11.868878",
+      "engagement": {
+        "likes": "1",
+        "comments": "0",
+        "collects": "1",
+        "shares": "0"
       }
     },
     {
@@ -814,7 +814,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:59:07.005716",
+      "fetchTime": "2026-07-04T02:02:40.706513",
       "engagement": {
         "likes": "100",
         "comments": "50",
@@ -837,7 +837,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821278",
+      "fetchTime": "2026-07-04T02:00:48.452886",
       "engagement": {
         "likes": "2",
         "comments": "15",
@@ -860,7 +860,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:55:22.834083",
+      "fetchTime": "2026-07-04T01:58:42.379471",
       "engagement": {
         "likes": "2",
         "comments": "24",
@@ -883,7 +883,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:55:22.834002",
+      "fetchTime": "2026-07-04T01:58:42.379396",
       "engagement": {
         "likes": "9",
         "comments": "10",
@@ -906,7 +906,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:55:22.834107",
+      "fetchTime": "2026-07-04T01:58:42.379493",
       "engagement": {
         "likes": "3",
         "comments": "4",
@@ -929,7 +929,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721258",
+      "fetchTime": "2026-07-04T02:01:36.566230",
       "engagement": {
         "likes": "0",
         "comments": "1",
@@ -952,7 +952,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T02:00:35.522382",
+      "fetchTime": "2026-07-04T02:03:58.478945",
       "engagement": {
         "likes": "3",
         "comments": "22",
@@ -975,7 +975,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:59:07.005628",
+      "fetchTime": "2026-07-04T02:02:40.706444",
       "engagement": {
         "likes": "1",
         "comments": "25",
@@ -998,7 +998,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721146",
+      "fetchTime": "2026-07-04T02:01:36.566043",
       "engagement": {
         "likes": "48",
         "comments": "27",
@@ -1021,7 +1021,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T02:00:35.522180",
+      "fetchTime": "2026-07-04T02:03:58.478872",
       "engagement": {
         "likes": "0",
         "comments": "0",
@@ -1044,7 +1044,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:55:22.834064",
+      "fetchTime": "2026-07-04T01:58:42.379454",
       "engagement": {
         "likes": "10",
         "comments": "54",
@@ -1067,7 +1067,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:59:07.005696",
+      "fetchTime": "2026-07-04T02:02:40.706495",
       "engagement": {
         "likes": "6",
         "comments": "5",
@@ -1090,7 +1090,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:36.333333",
+      "fetchTime": "2026-07-04T02:02:12.474680",
       "engagement": {
         "likes": "0",
         "comments": "2",
@@ -1113,7 +1113,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821031",
+      "fetchTime": "2026-07-04T02:00:48.452568",
       "engagement": {
         "likes": "188",
         "comments": "28",
@@ -1136,7 +1136,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:02.627370",
+      "fetchTime": "2026-07-04T01:59:11.868757",
       "engagement": {
         "likes": "2",
         "comments": "121",
@@ -1159,7 +1159,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:02.627411",
+      "fetchTime": "2026-07-04T01:59:11.868857",
       "engagement": {
         "likes": "1",
         "comments": "66",
@@ -1182,7 +1182,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821239",
+      "fetchTime": "2026-07-04T02:00:48.452870",
       "engagement": {
         "likes": "7",
         "comments": "10",
@@ -1192,6 +1192,29 @@
     },
     {
       "id": "20260704-48",
+      "date": "2026-06-26",
+      "publishTime": "2026-06-26",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "neutral",
+      "riskLevel": "low",
+      "title": "工行羊毛6.26",
+      "content": "工行羊毛6.26",
+      "url": "https://www.xiaohongshu.com/explore/6a3e42f00000000020039d3b",
+      "author": "老杨",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-07-04T02:03:58.479056",
+      "engagement": {
+        "likes": "7",
+        "comments": "1",
+        "collects": "2",
+        "shares": "10"
+      }
+    },
+    {
+      "id": "20260704-49",
       "date": "2026-06-05",
       "publishTime": "2026-06-05",
       "source": "小红书",
@@ -1205,7 +1228,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721210",
+      "fetchTime": "2026-07-04T02:01:36.566063",
       "engagement": {
         "likes": "3",
         "comments": "3",
@@ -1214,7 +1237,7 @@
       }
     },
     {
-      "id": "20260704-49",
+      "id": "20260704-50",
       "date": "2026-06-12",
       "publishTime": "2026-06-12",
       "source": "小红书",
@@ -1228,7 +1251,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "工行商城",
-      "fetchTime": "2026-07-04T02:00:35.522153",
+      "fetchTime": "2026-07-04T02:03:58.478846",
       "engagement": {
         "likes": "7",
         "comments": "0",
@@ -1237,7 +1260,7 @@
       }
     },
     {
-      "id": "20260704-50",
+      "id": "20260704-51",
       "date": "2026-06-29",
       "publishTime": "2026-06-29",
       "source": "小红书",
@@ -1251,7 +1274,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821130",
+      "fetchTime": "2026-07-04T02:00:48.452735",
       "engagement": {
         "likes": "4",
         "comments": "0",
@@ -1260,7 +1283,30 @@
       }
     },
     {
-      "id": "20260704-51",
+      "id": "20260704-52",
+      "date": "2026-04-14",
+      "publishTime": "2026-04-14",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "neutral",
+      "riskLevel": "low",
+      "title": "工行兑换韩币全流程：线上预约&线下取现",
+      "content": "工行兑换韩币全流程：线上预约&线下取现",
+      "url": "https://www.xiaohongshu.com/explore/69de2788000000001b0235f2",
+      "author": "汪汪汪简妮",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-07-04T02:01:36.566249",
+      "engagement": {
+        "likes": "1243",
+        "comments": "120",
+        "collects": "1097",
+        "shares": "1393"
+      }
+    },
+    {
+      "id": "20260704-53",
       "date": "2026-06-15",
       "publishTime": "2026-06-15",
       "source": "小红书",
@@ -1274,7 +1320,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721134",
+      "fetchTime": "2026-07-04T02:01:36.566142",
       "engagement": {
         "likes": "17",
         "comments": "9",
@@ -1283,30 +1329,7 @@
       }
     },
     {
-      "id": "20260704-52",
-      "date": "昨天 14:23",
-      "publishTime": "昨天 14:23",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行新6元立减金，速！",
-      "content": "工行新6元立减金，速！",
-      "url": "https://www.xiaohongshu.com/explore/6a47555c0000000006032038",
-      "author": "努力搬砖人",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.820937",
-      "engagement": {
-        "likes": "341",
-        "comments": "494",
-        "collects": "91",
-        "shares": "854"
-      }
-    },
-    {
-      "id": "20260704-53",
+      "id": "20260704-54",
       "date": "2026-01-28",
       "publishTime": "2026-01-28",
       "source": "小红书",
@@ -1320,7 +1343,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:47.031094",
+      "fetchTime": "2026-07-04T01:59:59.767752",
       "engagement": {
         "likes": "423",
         "comments": "34",
@@ -1329,7 +1352,7 @@
       }
     },
     {
-      "id": "20260704-54",
+      "id": "20260704-55",
       "date": "2025-07-07",
       "publishTime": "2025-07-07",
       "source": "小红书",
@@ -1343,7 +1366,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:59:07.005530",
+      "fetchTime": "2026-07-04T02:02:40.706354",
       "engagement": {
         "likes": "2",
         "comments": "1",
@@ -1352,7 +1375,7 @@
       }
     },
     {
-      "id": "20260704-55",
+      "id": "20260704-56",
       "date": "2026-06-21",
       "publishTime": "2026-06-21",
       "source": "小红书",
@@ -1366,7 +1389,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821208",
+      "fetchTime": "2026-07-04T02:00:48.452817",
       "engagement": {
         "likes": "337",
         "comments": "44",
@@ -1375,30 +1398,53 @@
       }
     },
     {
-      "id": "20260704-56",
-      "date": "2025-05-09",
-      "publishTime": "2025-05-09",
+      "id": "20260704-57",
+      "date": "2026-06-21",
+      "publishTime": "2026-06-21",
       "source": "小红书",
       "sourceType": "social",
       "sentiment": "neutral",
       "riskLevel": "low",
-      "title": "工行人人11立减",
-      "content": "工行人人11立减",
-      "url": "https://www.xiaohongshu.com/explore/681d4af4000000002001daf5",
-      "author": "秋秋日记",
+      "title": "工行新活动 附答案",
+      "content": "工行新活动 附答案",
+      "url": "https://www.xiaohongshu.com/explore/6a372f43000000000f0316b5",
+      "author": "烫烫烫",
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:36.333340",
+      "fetchTime": "2026-07-04T02:03:16.895476",
       "engagement": {
-        "likes": "72",
-        "comments": "142",
-        "collects": "44",
-        "shares": "94"
+        "likes": "189",
+        "comments": "3",
+        "collects": "183",
+        "shares": "88"
       }
     },
     {
-      "id": "20260704-57",
+      "id": "20260704-58",
+      "date": "昨天 14:16",
+      "publishTime": "昨天 14:16",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "neutral",
+      "riskLevel": "low",
+      "title": "工行新任务抽6立减",
+      "content": "工行新任务抽6立减",
+      "url": "https://www.xiaohongshu.com/explore/6a4753af0000000008030351",
+      "author": "优质活动",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-07-04T02:03:16.895490",
+      "engagement": {
+        "likes": "35",
+        "comments": "170",
+        "collects": "7",
+        "shares": "81"
+      }
+    },
+    {
+      "id": "20260704-59",
       "date": "2026-07-01",
       "publishTime": "2026-07-01",
       "source": "小红书",
@@ -1412,7 +1458,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821103",
+      "fetchTime": "2026-07-04T02:00:48.452662",
       "engagement": {
         "likes": "111",
         "comments": "120",
@@ -1421,7 +1467,30 @@
       }
     },
     {
-      "id": "20260704-58",
+      "id": "20260704-60",
+      "date": "2025-07-01",
+      "publishTime": "2025-07-01",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "neutral",
+      "riskLevel": "low",
+      "title": "7月1日工行毕业季活动速去玩",
+      "content": "7月1日工行毕业季活动速去玩",
+      "url": "https://www.xiaohongshu.com/explore/6863388c000000002300471c",
+      "author": "小巷表弟",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-07-04T02:02:12.474838",
+      "engagement": {
+        "likes": "55",
+        "comments": "81",
+        "collects": "26",
+        "shares": "124"
+      }
+    },
+    {
+      "id": "20260704-61",
       "date": "2026-06-26",
       "publishTime": "2026-06-26",
       "source": "小红书",
@@ -1435,7 +1504,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821196",
+      "fetchTime": "2026-07-04T02:00:48.452678",
       "engagement": {
         "likes": "66",
         "comments": "15",
@@ -1444,7 +1513,30 @@
       }
     },
     {
-      "id": "20260704-59",
+      "id": "20260704-62",
+      "date": "2025-07-21",
+      "publishTime": "2025-07-21",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "neutral",
+      "riskLevel": "low",
+      "title": "工行黑白菜刷免",
+      "content": "工行黑白菜刷免",
+      "url": "https://www.xiaohongshu.com/explore/687da020000000001c034e8a",
+      "author": "momo",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-07-04T02:02:40.706522",
+      "engagement": {
+        "likes": "42",
+        "comments": "121",
+        "collects": "34",
+        "shares": "10"
+      }
+    },
+    {
+      "id": "20260704-63",
       "date": "2026-06-09",
       "publishTime": "2026-06-09",
       "source": "小红书",
@@ -1458,7 +1550,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:02.627404",
+      "fetchTime": "2026-07-04T01:59:59.767827",
       "engagement": {
         "likes": "2",
         "comments": "182",
@@ -1467,53 +1559,7 @@
       }
     },
     {
-      "id": "20260704-60",
-      "date": "2026-07-01",
-      "publishTime": "2026-07-01",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行有人互吗❓我有两个号",
-      "content": "工行有人互吗❓我有两个号",
-      "url": "https://www.xiaohongshu.com/explore/6a43eb0300000000060209f3",
-      "author": "一只小羊",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:47.031053",
-      "engagement": {
-        "likes": "0",
-        "comments": "137",
-        "collects": "1",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20260704-61",
-      "date": "2026-06-09",
-      "publishTime": "2026-06-09",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行新客礼选什么",
-      "content": "工行新客礼选什么",
-      "url": "https://www.xiaohongshu.com/explore/6a27bf7c0000000035039bdd",
-      "author": "只能吃麦当劳",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821268",
-      "engagement": {
-        "likes": "33",
-        "comments": "47",
-        "collects": "11",
-        "shares": "16"
-      }
-    },
-    {
-      "id": "20260704-62",
+      "id": "20260704-64",
       "date": "2026-04-21",
       "publishTime": "2026-04-21",
       "source": "小红书",
@@ -1527,7 +1573,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721264",
+      "fetchTime": "2026-07-04T02:01:36.566240",
       "engagement": {
         "likes": "46",
         "comments": "21",
@@ -1536,30 +1582,30 @@
       }
     },
     {
-      "id": "20260704-63",
-      "date": "昨天 14:29",
-      "publishTime": "昨天 14:29",
+      "id": "20260704-65",
+      "date": "昨天 14:30",
+      "publishTime": "昨天 14:30",
       "source": "小红书",
       "sourceType": "social",
       "sentiment": "neutral",
       "riskLevel": "low",
-      "title": "工行今日6元，去试试",
-      "content": "工行今日6元，去试试",
-      "url": "https://www.xiaohongshu.com/explore/6a4756ad0000000006034c13",
-      "author": "会省会攒钱的小绵羊",
+      "title": "工行6r",
+      "content": "工行6r",
+      "url": "https://www.xiaohongshu.com/explore/6a475714000000001603e689",
+      "author": "刺猬线报（薅羊毛版）",
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821114",
+      "fetchTime": "2026-07-04T02:00:48.452514",
       "engagement": {
-        "likes": "19",
-        "comments": "41",
-        "collects": "6",
-        "shares": "18"
+        "likes": "10",
+        "comments": "45",
+        "collects": "5",
+        "shares": "24"
       }
     },
     {
-      "id": "20260704-64",
+      "id": "20260704-66",
       "date": "2026-07-01",
       "publishTime": "2026-07-01",
       "source": "小红书",
@@ -1573,7 +1619,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821162",
+      "fetchTime": "2026-07-04T02:00:48.452720",
       "engagement": {
         "likes": "16",
         "comments": "23",
@@ -1582,30 +1628,7 @@
       }
     },
     {
-      "id": "20260704-65",
-      "date": "昨天 14:45",
-      "publishTime": "昨天 14:45",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "速撸 工行6元羊毛",
-      "content": "速撸 工行6元羊毛",
-      "url": "https://www.xiaohongshu.com/explore/6a475a78000000001700b49b",
-      "author": "福利小哥",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721193",
-      "engagement": {
-        "likes": "23",
-        "comments": "13",
-        "collects": "19",
-        "shares": "9"
-      }
-    },
-    {
-      "id": "20260704-66",
+      "id": "20260704-67",
       "date": "2026-07-01",
       "publishTime": "2026-07-01",
       "source": "小红书",
@@ -1628,7 +1651,7 @@
       }
     },
     {
-      "id": "20260704-67",
+      "id": "20260704-68",
       "date": "2026-06-21",
       "publishTime": "2026-06-21",
       "source": "小红书",
@@ -1642,7 +1665,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:47.031138",
+      "fetchTime": "2026-07-04T01:59:59.767870",
       "engagement": {
         "likes": "14",
         "comments": "8",
@@ -1651,7 +1674,7 @@
       }
     },
     {
-      "id": "20260704-68",
+      "id": "20260704-69",
       "date": "2026-06-30",
       "publishTime": "2026-06-30",
       "source": "小红书",
@@ -1665,7 +1688,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821062",
+      "fetchTime": "2026-07-04T02:00:48.452611",
       "engagement": {
         "likes": "15",
         "comments": "0",
@@ -1674,7 +1697,7 @@
       }
     },
     {
-      "id": "20260704-69",
+      "id": "20260704-70",
       "date": "昨天 11:53",
       "publishTime": "昨天 11:53",
       "source": "小红书",
@@ -1688,7 +1711,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T02:00:35.522206",
+      "fetchTime": "2026-07-04T02:03:16.895322",
       "engagement": {
         "likes": "12",
         "comments": "6",
@@ -1697,7 +1720,7 @@
       }
     },
     {
-      "id": "20260704-70",
+      "id": "20260704-71",
       "date": "2026-06-25",
       "publishTime": "2026-06-25",
       "source": "小红书",
@@ -1711,7 +1734,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:59:51.555384",
+      "fetchTime": "2026-07-04T02:03:16.895270",
       "engagement": {
         "likes": "5",
         "comments": "8",
@@ -1720,53 +1743,7 @@
       }
     },
     {
-      "id": "20260704-71",
-      "date": "2026-07-01",
-      "publishTime": "2026-07-01",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "跑章！工行～",
-      "content": "跑章！工行～",
-      "url": "https://www.xiaohongshu.com/explore/6a433ce1000000000702ade9",
-      "author": "鹏哥的豆芽菜菜",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821147",
-      "engagement": {
-        "likes": "9",
-        "comments": "0",
-        "collects": "4",
-        "shares": "9"
-      }
-    },
-    {
       "id": "20260704-72",
-      "date": "昨天 09:52",
-      "publishTime": "昨天 09:52",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行周周盈",
-      "content": "工行周周盈",
-      "url": "https://www.xiaohongshu.com/explore/6a4715d800000000080305d0",
-      "author": "Cappuccino",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:02.627445",
-      "engagement": {
-        "likes": "3",
-        "comments": "13",
-        "collects": "2",
-        "shares": "2"
-      }
-    },
-    {
-      "id": "20260704-73",
       "date": "2026-06-28",
       "publishTime": "2026-06-28",
       "source": "小红书",
@@ -1780,7 +1757,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.820993",
+      "fetchTime": "2026-07-04T02:00:48.452591",
       "engagement": {
         "likes": "1",
         "comments": "6",
@@ -1789,7 +1766,7 @@
       }
     },
     {
-      "id": "20260704-74",
+      "id": "20260704-73",
       "date": "2026-05-07",
       "publishTime": "2026-05-07",
       "source": "小红书",
@@ -1803,7 +1780,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:36.333382",
+      "fetchTime": "2026-07-04T02:02:12.474830",
       "engagement": {
         "likes": "4",
         "comments": "12",
@@ -1812,53 +1789,7 @@
       }
     },
     {
-      "id": "20260704-75",
-      "date": "2026-07-02",
-      "publishTime": "2026-07-02",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行打卡云网点到底怎么领",
-      "content": "工行打卡云网点到底怎么领",
-      "url": "https://www.xiaohongshu.com/explore/6a4514800000000022017d65",
-      "author": "momo",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821255",
-      "engagement": {
-        "likes": "1",
-        "comments": "11",
-        "collects": "0",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20260704-76",
-      "date": "昨天 14:29",
-      "publishTime": "昨天 14:29",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "速❗️工行6元立减金（持续更新）",
-      "content": "速❗️工行6元立减金（持续更新）",
-      "url": "https://www.xiaohongshu.com/explore/6a4756e20000000021008c04",
-      "author": "小值线报",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721140",
-      "engagement": {
-        "likes": "4",
-        "comments": "1",
-        "collects": "3",
-        "shares": "2"
-      }
-    },
-    {
-      "id": "20260704-77",
+      "id": "20260704-74",
       "date": "2026-07-03",
       "publishTime": "2026-07-03",
       "source": "小红书",
@@ -1872,7 +1803,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821086",
+      "fetchTime": "2026-07-04T02:00:48.452640",
       "engagement": {
         "likes": "5",
         "comments": "0",
@@ -1881,7 +1812,7 @@
       }
     },
     {
-      "id": "20260704-78",
+      "id": "20260704-75",
       "date": "2026-06-15",
       "publishTime": "2026-06-15",
       "source": "小红书",
@@ -1895,7 +1826,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T02:00:35.522344",
+      "fetchTime": "2026-07-04T02:03:58.479021",
       "engagement": {
         "likes": "3",
         "comments": "0",
@@ -1904,7 +1835,7 @@
       }
     },
     {
-      "id": "20260704-79",
+      "id": "20260704-76",
       "date": "2026-06-26",
       "publishTime": "2026-06-26",
       "source": "小红书",
@@ -1918,7 +1849,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:36.333429",
+      "fetchTime": "2026-07-04T02:02:12.474820",
       "engagement": {
         "likes": "1",
         "comments": "0",
@@ -1927,7 +1858,7 @@
       }
     },
     {
-      "id": "20260704-80",
+      "id": "20260704-77",
       "date": "2026-07-03",
       "publishTime": "2026-07-03",
       "source": "小红书",
@@ -1941,7 +1872,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T02:00:35.522299",
+      "fetchTime": "2026-07-04T02:03:58.478987",
       "engagement": {
         "likes": "0",
         "comments": "0",
@@ -1950,53 +1881,30 @@
       }
     },
     {
-      "id": "20260704-81",
-      "date": "2026-07-03",
-      "publishTime": "2026-07-03",
+      "id": "20260704-78",
+      "date": "昨天 14:23",
+      "publishTime": "昨天 14:23",
       "source": "小红书",
       "sourceType": "social",
       "sentiment": "positive",
       "riskLevel": "low",
-      "title": "速度，工行18元大毛来薅❗️",
-      "content": "速度，工行18元大毛来薅❗️",
-      "url": "https://www.xiaohongshu.com/explore/6a4671bc0000000007012fd0",
+      "title": "工行新6元立减金，速！",
+      "content": "工行新6元立减金，速！",
+      "url": "https://www.xiaohongshu.com/explore/6a47555c0000000006032038",
       "author": "努力搬砖人",
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721186",
+      "fetchTime": "2026-07-04T02:00:48.452623",
       "engagement": {
-        "likes": "166",
-        "comments": "71",
-        "collects": "126",
-        "shares": "144"
+        "likes": "342",
+        "comments": "494",
+        "collects": "91",
+        "shares": "854"
       }
     },
     {
-      "id": "20260704-82",
-      "date": "2026-02-10",
-      "publishTime": "2026-02-10",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "positive",
-      "riskLevel": "low",
-      "title": "工行大方啊",
-      "content": "工行大方啊",
-      "url": "https://www.xiaohongshu.com/explore/698a938a00000000280098a0",
-      "author": "米辣",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:47.030964",
-      "engagement": {
-        "likes": "216",
-        "comments": "113",
-        "collects": "95",
-        "shares": "63"
-      }
-    },
-    {
-      "id": "20260704-83",
+      "id": "20260704-79",
       "date": "昨天 10:18",
       "publishTime": "昨天 10:18",
       "source": "小红书",
@@ -2010,7 +1918,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:57:20.821043",
+      "fetchTime": "2026-07-04T02:00:48.452689",
       "engagement": {
         "likes": "139",
         "comments": "44",
@@ -2019,30 +1927,30 @@
       }
     },
     {
-      "id": "20260704-84",
-      "date": "2025-07-01",
-      "publishTime": "2025-07-01",
+      "id": "20260704-80",
+      "date": "2025-05-09",
+      "publishTime": "2025-05-09",
       "source": "小红书",
       "sourceType": "social",
       "sentiment": "positive",
       "riskLevel": "low",
-      "title": "7月1日工行毕业季活动速去玩",
-      "content": "7月1日工行毕业季活动速去玩",
-      "url": "https://www.xiaohongshu.com/explore/6863388c000000002300471c",
-      "author": "小巷表弟",
+      "title": "工行人人11立减",
+      "content": "工行人人11立减",
+      "url": "https://www.xiaohongshu.com/explore/681d4af4000000002001daf5",
+      "author": "秋秋日记",
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:36.333393",
+      "fetchTime": "2026-07-04T02:02:12.474705",
       "engagement": {
-        "likes": "55",
-        "comments": "81",
-        "collects": "26",
-        "shares": "124"
+        "likes": "72",
+        "comments": "142",
+        "collects": "44",
+        "shares": "94"
       }
     },
     {
-      "id": "20260704-85",
+      "id": "20260704-81",
       "date": "2026-06-10",
       "publishTime": "2026-06-10",
       "source": "小红书",
@@ -2056,7 +1964,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:59:51.555357",
+      "fetchTime": "2026-07-04T02:03:16.895236",
       "engagement": {
         "likes": "43",
         "comments": "70",
@@ -2065,7 +1973,7 @@
       }
     },
     {
-      "id": "20260704-86",
+      "id": "20260704-82",
       "date": "2026-05-16",
       "publishTime": "2026-05-16",
       "source": "小红书",
@@ -2079,7 +1987,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:58:08.721128",
+      "fetchTime": "2026-07-04T02:00:48.452793",
       "engagement": {
         "likes": "62",
         "comments": "45",
@@ -2088,7 +1996,7 @@
       }
     },
     {
-      "id": "20260704-87",
+      "id": "20260704-83",
       "date": "2026-06-04",
       "publishTime": "2026-06-04",
       "source": "小红书",
@@ -2102,7 +2010,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:56:47.031105",
+      "fetchTime": "2026-07-04T01:59:59.767815",
       "engagement": {
         "likes": "21",
         "comments": "69",
@@ -2111,7 +2019,30 @@
       }
     },
     {
-      "id": "20260704-88",
+      "id": "20260704-84",
+      "date": "2026-07-02",
+      "publishTime": "2026-07-02",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行我爱你！",
+      "content": "工行我爱你！",
+      "url": "https://www.xiaohongshu.com/explore/6a448150000000001702a592",
+      "author": "小红帽🥝",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-07-04T02:00:48.452906",
+      "engagement": {
+        "likes": "16",
+        "comments": "37",
+        "collects": "13",
+        "shares": "21"
+      }
+    },
+    {
+      "id": "20260704-85",
       "date": "2026-06-08",
       "publishTime": "2026-06-08",
       "source": "小红书",
@@ -2125,7 +2056,7 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T02:00:35.522333",
+      "fetchTime": "2026-07-04T02:03:58.479000",
       "engagement": {
         "likes": "30",
         "comments": "26",
@@ -2134,7 +2065,30 @@
       }
     },
     {
-      "id": "20260704-89",
+      "id": "20260704-86",
+      "date": "昨天 14:45",
+      "publishTime": "昨天 14:45",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "速撸 工行6元羊毛",
+      "content": "速撸 工行6元羊毛",
+      "url": "https://www.xiaohongshu.com/explore/6a475a78000000001700b49b",
+      "author": "福利小哥",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-07-04T02:01:36.566086",
+      "engagement": {
+        "likes": "23",
+        "comments": "13",
+        "collects": "19",
+        "shares": "9"
+      }
+    },
+    {
+      "id": "20260704-87",
       "date": "2026-06-08",
       "publishTime": "2026-06-08",
       "source": "小红书",
@@ -2148,12 +2102,35 @@
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-07-04T01:55:22.834070",
+      "fetchTime": "2026-07-04T01:58:42.379460",
       "engagement": {
         "likes": "12",
         "comments": "17",
         "collects": "4",
         "shares": "9"
+      }
+    },
+    {
+      "id": "20260704-88",
+      "date": "昨天 14:29",
+      "publishTime": "昨天 14:29",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "速❗️工行6元立减金（持续更新）",
+      "content": "速❗️工行6元立减金（持续更新）",
+      "url": "https://www.xiaohongshu.com/explore/6a4756e20000000021008c04",
+      "author": "小值线报",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-07-04T02:01:36.566077",
+      "engagement": {
+        "likes": "4",
+        "comments": "1",
+        "collects": "3",
+        "shares": "2"
       }
     }
   ]
