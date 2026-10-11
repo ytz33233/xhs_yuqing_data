@@ -1,36 +1,36 @@
 {
   "reportDate": "2026-10-11",
-  "generatedAt": "2026-10-11 23:26",
+  "generatedAt": "2026-10-11 23:45",
   "summary": {
-    "total": 104,
-    "negativeCount": 0,
-    "negativePct": 0,
-    "positiveCount": 0,
-    "neutralCount": 104,
+    "total": 93,
+    "negativeCount": 4,
+    "negativePct": 4,
+    "positiveCount": 26,
+    "neutralCount": 63,
     "channelCount": 1,
     "highRiskCount": 0
   },
   "bySource": {
-    "social": 104,
+    "social": 93,
     "news": 0,
     "complaint": 0,
     "forum": 0,
     "official": 0
   },
   "bySentiment": {
-    "positive": 0,
-    "negative": 0,
-    "neutral": 104
+    "positive": 26,
+    "negative": 4,
+    "neutral": 63
   },
   "byRisk": {
     "high": 0,
     "medium": 0,
-    "low": 104
+    "low": 93
   },
   "byProduct": {
     "i豆活动": 35,
-    "升金有礼": 4,
-    "其他": 64,
+    "升金有礼": 1,
+    "其他": 56,
     "积分兑换": 1
   },
   "trend7d": [
@@ -66,8 +66,8 @@
     },
     {
       "date": "2026-10-11",
-      "total": 104,
-      "negative": 0
+      "total": 93,
+      "negative": 4
     }
   ],
   "hotKeywords": [
@@ -84,19 +84,15 @@
       "count": 11
     },
     {
-      "word": "升金有礼",
-      "count": 4
-    },
-    {
       "word": "资产提升",
-      "count": 4
-    },
-    {
-      "word": "薅羊毛",
       "count": 2
     },
     {
       "word": "抽奖",
+      "count": 1
+    },
+    {
+      "word": "升金有礼",
       "count": 1
     },
     {
@@ -106,15 +102,34 @@
     {
       "word": "商城",
       "count": 1
-    },
-    {
-      "word": "奖励",
-      "count": 1
     }
   ],
   "records": [
     {
       "id": "20261011-01",
+      "date": "2026-09-28",
+      "publishTime": "2026-09-28",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工商银行i豆乐园幸运盲盒机不要玩",
+      "content": "工商银行i豆乐园幸运盲盒机不要玩",
+      "url": "https://www.xiaohongshu.com/explore/6ab9bff50000000015011218",
+      "author": "我之前叫啥来着？",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆乐园",
+      "fetchTime": "2026-10-11T23:15:22.795974",
+      "engagement": {
+        "likes": "1",
+        "comments": "9",
+        "collects": "0",
+        "shares": "0"
+      }
+    },
+    {
+      "id": "20261011-02",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "id": "20261011-02",
+      "id": "20261011-03",
       "date": "2026-08-30",
       "publishTime": "2026-08-30",
       "source": "小红书",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "id": "20261011-03",
+      "id": "20261011-04",
       "date": "2026-02-11",
       "publishTime": "2026-02-11",
       "source": "小红书",
@@ -183,7 +198,7 @@
       }
     },
     {
-      "id": "20261011-04",
+      "id": "20261011-05",
       "date": "2026-10-09",
       "publishTime": "2026-10-09",
       "source": "小红书",
@@ -203,29 +218,6 @@
         "comments": "89",
         "collects": "166",
         "shares": "80"
-      }
-    },
-    {
-      "id": "20261011-05",
-      "date": "2026-09-17",
-      "publishTime": "2026-09-17",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "medium",
-      "title": "工行i豆兑换微信立减金拿下830克价金苹果",
-      "content": "工行i豆兑换微信立减金拿下830克价金苹果",
-      "url": "https://www.xiaohongshu.com/explore/6aabd8e9000000002a004e1d",
-      "author": "💕JIA🍭💯",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆活动",
-      "fetchTime": "2026-10-11T23:17:45.376874",
-      "engagement": {
-        "likes": "146",
-        "comments": "110",
-        "collects": "121",
-        "shares": "33"
       }
     },
     {
@@ -299,29 +291,6 @@
     },
     {
       "id": "20261011-09",
-      "date": "2026-03-16",
-      "publishTime": "2026-03-16",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行i豆也太好挣了！",
-      "content": "工行i豆也太好挣了！",
-      "url": "https://www.xiaohongshu.com/explore/69b7c8e5000000001a021c65",
-      "author": "快乐打怪上大分",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆活动",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "32",
-        "comments": "42",
-        "collects": "15",
-        "shares": "5"
-      }
-    },
-    {
-      "id": "20261011-10",
       "date": "2026-10-08",
       "publishTime": "2026-10-08",
       "source": "小红书",
@@ -344,7 +313,7 @@
       }
     },
     {
-      "id": "20261011-11",
+      "id": "20261011-10",
       "date": "2026-09-17",
       "publishTime": "2026-09-17",
       "source": "小红书",
@@ -367,30 +336,7 @@
       }
     },
     {
-      "id": "20261011-12",
-      "date": "2026-06-27",
-      "publishTime": "2026-06-27",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "medium",
-      "title": "31.98w工行i豆兑换的自行车到啦，接上一篇",
-      "content": "31.98w工行i豆兑换的自行车到啦，接上一篇",
-      "url": "https://www.xiaohongshu.com/explore/6a3f2c91000000001503d15a",
-      "author": "燕丽",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆活动",
-      "fetchTime": "2026-10-11T23:12:35.434677",
-      "engagement": {
-        "likes": "18",
-        "comments": "26",
-        "collects": "6",
-        "shares": "21"
-      }
-    },
-    {
-      "id": "20261011-13",
+      "id": "20261011-11",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -413,7 +359,7 @@
       }
     },
     {
-      "id": "20261011-14",
+      "id": "20261011-12",
       "date": "2026-10-09",
       "publishTime": "2026-10-09",
       "source": "小红书",
@@ -436,7 +382,7 @@
       }
     },
     {
-      "id": "20261011-15",
+      "id": "20261011-13",
       "date": "2026-10-09",
       "publishTime": "2026-10-09",
       "source": "小红书",
@@ -459,7 +405,7 @@
       }
     },
     {
-      "id": "20261011-16",
+      "id": "20261011-14",
       "date": "2026-09-16",
       "publishTime": "2026-09-16",
       "source": "小红书",
@@ -482,7 +428,7 @@
       }
     },
     {
-      "id": "20261011-17",
+      "id": "20261011-15",
       "date": "2026-09-09",
       "publishTime": "2026-09-09",
       "source": "小红书",
@@ -505,30 +451,7 @@
       }
     },
     {
-      "id": "20261011-18",
-      "date": "2026-08-01",
-      "publishTime": "2026-08-01",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "medium",
-      "title": "工行i豆乐园领豆啦",
-      "content": "工行i豆乐园领豆啦",
-      "url": "https://www.xiaohongshu.com/explore/6a6d33d20000000033035d46",
-      "author": "Cappuccino",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆乐园",
-      "fetchTime": "2026-10-11T23:15:22.795974",
-      "engagement": {
-        "likes": "0",
-        "comments": "40",
-        "collects": "2",
-        "shares": "2"
-      }
-    },
-    {
-      "id": "20261011-19",
+      "id": "20261011-16",
       "date": "2026-10-08",
       "publishTime": "2026-10-08",
       "source": "小红书",
@@ -551,30 +474,7 @@
       }
     },
     {
-      "id": "20261011-20",
-      "date": "2026-10-09",
-      "publishTime": "2026-10-09",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行2000i豆攻略！记得拿！",
-      "content": "工行2000i豆攻略！记得拿！",
-      "url": "https://www.xiaohongshu.com/explore/6ac87a08000000001b01f0e2",
-      "author": "象咖商务",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆活动",
-      "fetchTime": "2026-10-11T23:13:15.971540",
-      "engagement": {
-        "likes": "18",
-        "comments": "9",
-        "collects": "9",
-        "shares": "3"
-      }
-    },
-    {
-      "id": "20261011-21",
+      "id": "20261011-17",
       "date": "2026-10-08",
       "publishTime": "2026-10-08",
       "source": "小红书",
@@ -597,7 +497,7 @@
       }
     },
     {
-      "id": "20261011-22",
+      "id": "20261011-18",
       "date": "2026-09-28",
       "publishTime": "2026-09-28",
       "source": "小红书",
@@ -620,7 +520,7 @@
       }
     },
     {
-      "id": "20261011-23",
+      "id": "20261011-19",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -643,7 +543,7 @@
       }
     },
     {
-      "id": "20261011-24",
+      "id": "20261011-20",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -666,53 +566,7 @@
       }
     },
     {
-      "id": "20261011-25",
-      "date": "2026-09-25",
-      "publishTime": "2026-09-25",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "medium",
-      "title": "建行9月升金有礼活动，最高400立减jin",
-      "content": "建行9月升金有礼活动，最高400立减jin",
-      "url": "https://www.xiaohongshu.com/explore/6ab5e79f000000000a023639",
-      "author": "CHRIS",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "升金有礼",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "11",
-        "comments": "13",
-        "collects": "4",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20261011-26",
-      "date": "2025-12-31",
-      "publishTime": "2025-12-31",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "升金有礼一号转出的话不影响领笑脸大王吧",
-      "content": "升金有礼一号转出的话不影响领笑脸大王吧",
-      "url": "https://www.xiaohongshu.com/explore/6954b076000000001e00316b",
-      "author": "yuck",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "升金有礼",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "10",
-        "comments": "13",
-        "collects": "2",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20261011-27",
+      "id": "20261011-21",
       "date": "2026-09-22",
       "publishTime": "2026-09-22",
       "source": "小红书",
@@ -735,30 +589,7 @@
       }
     },
     {
-      "id": "20261011-28",
-      "date": "2026-10-04",
-      "publishTime": "2026-10-04",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "medium",
-      "title": "工银i豆乐园，我来啦",
-      "content": "工银i豆乐园，我来啦",
-      "url": "https://www.xiaohongshu.com/explore/6ac1a50f000000001a02899b",
-      "author": "董感光波biu",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆乐园",
-      "fetchTime": "2026-10-11T23:15:22.795974",
-      "engagement": {
-        "likes": "0",
-        "comments": "25",
-        "collects": "0",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20261011-29",
+      "id": "20261011-22",
       "date": "2026-09-01",
       "publishTime": "2026-09-01",
       "source": "小红书",
@@ -781,30 +612,7 @@
       }
     },
     {
-      "id": "20261011-30",
-      "date": "2026-09-28",
-      "publishTime": "2026-09-28",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工商银行i豆乐园幸运盲盒机不要玩",
-      "content": "工商银行i豆乐园幸运盲盒机不要玩",
-      "url": "https://www.xiaohongshu.com/explore/6ab9bff50000000015011218",
-      "author": "我之前叫啥来着？",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "i豆乐园",
-      "fetchTime": "2026-10-11T23:15:22.795974",
-      "engagement": {
-        "likes": "1",
-        "comments": "9",
-        "collects": "0",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20261011-31",
+      "id": "20261011-23",
       "date": "2025-10-29",
       "publishTime": "2025-10-29",
       "source": "小红书",
@@ -827,30 +635,7 @@
       }
     },
     {
-      "id": "20261011-32",
-      "date": "2026-10-11",
-      "publishTime": "2026-10-11",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "升金有礼",
-      "content": "升金有礼",
-      "url": "https://www.xiaohongshu.com/explore/6acacd590000000015003fd8",
-      "author": "好好好",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "升金有礼",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "0",
-        "comments": "5",
-        "collects": "0",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20261011-33",
+      "id": "20261011-24",
       "date": "2026-09-23",
       "publishTime": "2026-09-23",
       "source": "小红书",
@@ -873,7 +658,7 @@
       }
     },
     {
-      "id": "20261011-34",
+      "id": "20261011-25",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -896,7 +681,7 @@
       }
     },
     {
-      "id": "20261011-35",
+      "id": "20261011-26",
       "date": "2026-10-09",
       "publishTime": "2026-10-09",
       "source": "小红书",
@@ -919,7 +704,7 @@
       }
     },
     {
-      "id": "20261011-36",
+      "id": "20261011-27",
       "date": "2026-09-30",
       "publishTime": "2026-09-30",
       "source": "小红书",
@@ -942,7 +727,7 @@
       }
     },
     {
-      "id": "20261011-37",
+      "id": "20261011-28",
       "date": "3分钟前",
       "publishTime": "3分钟前",
       "source": "小红书",
@@ -965,7 +750,7 @@
       }
     },
     {
-      "id": "20261011-38",
+      "id": "20261011-29",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -988,7 +773,7 @@
       }
     },
     {
-      "id": "20261011-39",
+      "id": "20261011-30",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -1011,53 +796,145 @@
       }
     },
     {
-      "id": "20261011-40",
+      "id": "20261011-31",
+      "date": "2026-09-17",
+      "publishTime": "2026-09-17",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "medium",
+      "title": "工行i豆兑换微信立减金拿下830克价金苹果",
+      "content": "工行i豆兑换微信立减金拿下830克价金苹果",
+      "url": "https://www.xiaohongshu.com/explore/6aabd8e9000000002a004e1d",
+      "author": "💕JIA🍭💯",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "fetchTime": "2026-10-11T23:17:45.376874",
+      "engagement": {
+        "likes": "146",
+        "comments": "110",
+        "collects": "121",
+        "shares": "33"
+      }
+    },
+    {
+      "id": "20261011-32",
+      "date": "2026-03-16",
+      "publishTime": "2026-03-16",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行i豆也太好挣了！",
+      "content": "工行i豆也太好挣了！",
+      "url": "https://www.xiaohongshu.com/explore/69b7c8e5000000001a021c65",
+      "author": "快乐打怪上大分",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "fetchTime": "2026-10-11T23:12:04.862467",
+      "engagement": {
+        "likes": "32",
+        "comments": "42",
+        "collects": "15",
+        "shares": "5"
+      }
+    },
+    {
+      "id": "20261011-33",
+      "date": "2026-06-27",
+      "publishTime": "2026-06-27",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "medium",
+      "title": "31.98w工行i豆兑换的自行车到啦，接上一篇",
+      "content": "31.98w工行i豆兑换的自行车到啦，接上一篇",
+      "url": "https://www.xiaohongshu.com/explore/6a3f2c91000000001503d15a",
+      "author": "燕丽",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆活动",
+      "fetchTime": "2026-10-11T23:12:35.434677",
+      "engagement": {
+        "likes": "18",
+        "comments": "26",
+        "collects": "6",
+        "shares": "21"
+      }
+    },
+    {
+      "id": "20261011-34",
+      "date": "2026-08-01",
+      "publishTime": "2026-08-01",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "medium",
+      "title": "工行i豆乐园领豆啦",
+      "content": "工行i豆乐园领豆啦",
+      "url": "https://www.xiaohongshu.com/explore/6a6d33d20000000033035d46",
+      "author": "Cappuccino",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆乐园",
+      "fetchTime": "2026-10-11T23:15:22.795974",
+      "engagement": {
+        "likes": "0",
+        "comments": "40",
+        "collects": "2",
+        "shares": "2"
+      }
+    },
+    {
+      "id": "20261011-35",
       "date": "2026-10-09",
       "publishTime": "2026-10-09",
       "source": "小红书",
       "sourceType": "social",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "riskLevel": "low",
-      "title": "安徽工行升金礼＞全国活动，双福利可同享",
-      "content": "安徽工行升金礼＞全国活动，双福利可同享",
-      "url": "https://www.xiaohongshu.com/explore/6ac8fca8000000000a024b45",
-      "author": "丁丁爱搞钱",
+      "title": "工行2000i豆攻略！记得拿！",
+      "content": "工行2000i豆攻略！记得拿！",
+      "url": "https://www.xiaohongshu.com/explore/6ac87a08000000001b01f0e2",
+      "author": "象咖商务",
       "status": "已发布",
       "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:04.862467",
+      "relatedProduct": "i豆活动",
+      "fetchTime": "2026-10-11T23:13:15.971540",
       "engagement": {
-        "likes": "8",
-        "comments": "21",
-        "collects": "6",
-        "shares": "4"
-      }
-    },
-    {
-      "id": "20261011-41",
-      "date": "2026-09-07",
-      "publishTime": "2026-09-07",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "3个建行月月升金活动",
-      "content": "3个建行月月升金活动",
-      "url": "https://www.xiaohongshu.com/explore/6a9e8b46000000002b01ca02",
-      "author": "小红薯62B58E93",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "5",
-        "comments": "13",
-        "collects": "12",
+        "likes": "18",
+        "comments": "9",
+        "collects": "9",
         "shares": "3"
       }
     },
     {
-      "id": "20261011-42",
+      "id": "20261011-36",
+      "date": "2026-10-04",
+      "publishTime": "2026-10-04",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "medium",
+      "title": "工银i豆乐园，我来啦",
+      "content": "工银i豆乐园，我来啦",
+      "url": "https://www.xiaohongshu.com/explore/6ac1a50f000000001a02899b",
+      "author": "董感光波biu",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "i豆乐园",
+      "fetchTime": "2026-10-11T23:15:22.795974",
+      "engagement": {
+        "likes": "0",
+        "comments": "25",
+        "collects": "0",
+        "shares": "0"
+      }
+    },
+    {
+      "id": "20261011-37",
       "date": "2026-08-13",
       "publishTime": "2026-08-13",
       "source": "小红书",
@@ -1080,122 +957,30 @@
       }
     },
     {
-      "id": "20261011-43",
-      "date": "2026-03-02",
-      "publishTime": "2026-03-02",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "农行3月升金礼🎁",
-      "content": "农行3月升金礼🎁",
-      "url": "https://www.xiaohongshu.com/explore/69a582800000000015033334",
-      "author": "邱康平",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "38",
-        "comments": "60",
-        "collects": "13",
-        "shares": "18"
-      }
-    },
-    {
-      "id": "20261011-44",
-      "date": "2026-04-15",
-      "publishTime": "2026-04-15",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "建行升金礼",
-      "content": "建行升金礼",
-      "url": "https://www.xiaohongshu.com/explore/69de4607000000001b021bfa",
-      "author": "加菲",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "39",
-        "comments": "27",
-        "collects": "35",
-        "shares": "30"
-      }
-    },
-    {
-      "id": "20261011-45",
+      "id": "20261011-38",
       "date": "2026-10-09",
       "publishTime": "2026-10-09",
       "source": "小红书",
       "sourceType": "social",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "riskLevel": "low",
-      "title": "羊毛加码！农行四季度升金礼全国开启",
-      "content": "羊毛加码！农行四季度升金礼全国开启",
-      "url": "https://www.xiaohongshu.com/explore/6ac8f016000000000b005614",
+      "title": "安徽工行升金礼＞全国活动，双福利可同享",
+      "content": "安徽工行升金礼＞全国活动，双福利可同享",
+      "url": "https://www.xiaohongshu.com/explore/6ac8fca8000000000a024b45",
       "author": "丁丁爱搞钱",
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
       "fetchTime": "2026-10-11T23:12:04.862467",
       "engagement": {
-        "likes": "11",
-        "comments": "1",
-        "collects": "16",
-        "shares": "6"
-      }
-    },
-    {
-      "id": "20261011-46",
-      "date": "2026-09-28",
-      "publishTime": "2026-09-28",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行积分换购真的好香",
-      "content": "工行积分换购真的好香",
-      "url": "https://www.xiaohongshu.com/explore/6aba1c2f000000001500ce09",
-      "author": "QB",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:17:45.376874",
-      "engagement": {
-        "likes": "6",
-        "comments": "18",
-        "collects": "1",
+        "likes": "8",
+        "comments": "21",
+        "collects": "6",
         "shares": "4"
       }
     },
     {
-      "id": "20261011-47",
-      "date": "2026-09-16",
-      "publishTime": "2026-09-16",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行立减金！薅！",
-      "content": "工行立减金！薅！",
-      "url": "https://www.xiaohongshu.com/explore/6aaa191d000000001203ef28",
-      "author": "007",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:14:57.820122",
-      "engagement": {
-        "likes": "55",
-        "comments": "27",
-        "collects": "26",
-        "shares": "41"
-      }
-    },
-    {
-      "id": "20261011-48",
+      "id": "20261011-39",
       "date": "2026-07-21",
       "publishTime": "2026-07-21",
       "source": "小红书",
@@ -1218,7 +1003,7 @@
       }
     },
     {
-      "id": "20261011-49",
+      "id": "20261011-40",
       "date": "2026-10-08",
       "publishTime": "2026-10-08",
       "source": "小红书",
@@ -1241,7 +1026,7 @@
       }
     },
     {
-      "id": "20261011-50",
+      "id": "20261011-41",
       "date": "2026-09-18",
       "publishTime": "2026-09-18",
       "source": "小红书",
@@ -1264,30 +1049,7 @@
       }
     },
     {
-      "id": "20261011-51",
-      "date": "2026-10-10",
-      "publishTime": "2026-10-10",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行立减金深圳财富回馈礼➕积分领起来",
-      "content": "工行立减金深圳财富回馈礼➕积分领起来",
-      "url": "https://www.xiaohongshu.com/explore/6aca16a20000000014002acc",
-      "author": "晓宇会生活",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:17:45.376874",
-      "engagement": {
-        "likes": "0",
-        "comments": "0",
-        "collects": "4",
-        "shares": "0"
-      }
-    },
-    {
-      "id": "20261011-52",
+      "id": "20261011-42",
       "date": "2026-10-09",
       "publishTime": "2026-10-09",
       "source": "小红书",
@@ -1310,7 +1072,7 @@
       }
     },
     {
-      "id": "20261011-53",
+      "id": "20261011-43",
       "date": "2026-01-20",
       "publishTime": "2026-01-20",
       "source": "小红书",
@@ -1333,7 +1095,99 @@
       }
     },
     {
-      "id": "20261011-54",
+      "id": "20261011-44",
+      "date": "2026-10-10",
+      "publishTime": "2026-10-10",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工行玩不起就别玩",
+      "content": "工行玩不起就别玩",
+      "url": "https://www.xiaohongshu.com/explore/6aca03ca0000000018013756",
+      "author": "喜好黄金的萱萱",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:12:35.434348",
+      "engagement": {
+        "likes": "8",
+        "comments": "102",
+        "collects": "2",
+        "shares": "2"
+      }
+    },
+    {
+      "id": "20261011-45",
+      "date": "2026-09-08",
+      "publishTime": "2026-09-08",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "😭工行信用卡积分别乱兑！十几万白白亏大",
+      "content": "😭工行信用卡积分别乱兑！十几万白白亏大",
+      "url": "https://www.xiaohongshu.com/explore/6a9f444d000000002a02eaab",
+      "author": "希望🌲",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:12:35.434677",
+      "engagement": {
+        "likes": "11",
+        "comments": "11",
+        "collects": "8",
+        "shares": "4"
+      }
+    },
+    {
+      "id": "20261011-46",
+      "date": "2026-10-03",
+      "publishTime": "2026-10-03",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "negative",
+      "riskLevel": "high",
+      "title": "工行这活动太离谱！",
+      "content": "工行这活动太离谱！",
+      "url": "https://www.xiaohongshu.com/explore/6abfd6060000000015012e4e",
+      "author": "简单",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:13:54.407225",
+      "engagement": {
+        "likes": "12",
+        "comments": "14",
+        "collects": "3",
+        "shares": "5"
+      }
+    },
+    {
+      "id": "20261011-47",
+      "date": "2026-09-28",
+      "publishTime": "2026-09-28",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行积分换购真的好香",
+      "content": "工行积分换购真的好香",
+      "url": "https://www.xiaohongshu.com/explore/6aba1c2f000000001500ce09",
+      "author": "QB",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:17:45.376874",
+      "engagement": {
+        "likes": "6",
+        "comments": "18",
+        "collects": "1",
+        "shares": "4"
+      }
+    },
+    {
+      "id": "20261011-48",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -1356,30 +1210,7 @@
       }
     },
     {
-      "id": "20261011-55",
-      "date": "2026-09-18",
-      "publishTime": "2026-09-18",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "快去领北京工商银行60-30优惠券",
-      "content": "快去领北京工商银行60-30优惠券",
-      "url": "https://www.xiaohongshu.com/explore/6aacf08c000000002900e898",
-      "author": "moumo",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:14:57.820122",
-      "engagement": {
-        "likes": "41",
-        "comments": "46",
-        "collects": "14",
-        "shares": "53"
-      }
-    },
-    {
-      "id": "20261011-56",
+      "id": "20261011-49",
       "date": "2026-09-25",
       "publishTime": "2026-09-25",
       "source": "小红书",
@@ -1402,7 +1233,7 @@
       }
     },
     {
-      "id": "20261011-57",
+      "id": "20261011-50",
       "date": "2026-10-07",
       "publishTime": "2026-10-07",
       "source": "小红书",
@@ -1425,7 +1256,7 @@
       }
     },
     {
-      "id": "20261011-58",
+      "id": "20261011-51",
       "date": "2026-09-24",
       "publishTime": "2026-09-24",
       "source": "小红书",
@@ -1448,76 +1279,53 @@
       }
     },
     {
-      "id": "20261011-59",
-      "date": "2026-09-15",
-      "publishTime": "2026-09-15",
+      "id": "20261011-52",
+      "date": "2026-09-16",
+      "publishTime": "2026-09-16",
       "source": "小红书",
       "sourceType": "social",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "riskLevel": "low",
-      "title": "工银e生活绝对可以的一早发放福利手气不错",
-      "content": "工银e生活绝对可以的一早发放福利手气不错",
-      "url": "https://www.xiaohongshu.com/explore/6aa8996b000000002a0057d9",
-      "author": "小红薯_7694",
+      "title": "工行立减金！薅！",
+      "content": "工行立减金！薅！",
+      "url": "https://www.xiaohongshu.com/explore/6aaa191d000000001203ef28",
+      "author": "007",
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:35.435311",
+      "fetchTime": "2026-10-11T23:14:57.820122",
       "engagement": {
-        "likes": "7",
-        "comments": "20",
-        "collects": "0",
-        "shares": "7"
+        "likes": "55",
+        "comments": "27",
+        "collects": "26",
+        "shares": "41"
       }
     },
     {
-      "id": "20261011-60",
-      "date": "2026-10-04",
-      "publishTime": "2026-10-04",
+      "id": "20261011-53",
+      "date": "2026-10-10",
+      "publishTime": "2026-10-10",
       "source": "小红书",
       "sourceType": "social",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "riskLevel": "low",
-      "title": "撸全国Bug，工行1.08-6.6元（还没黄）",
-      "content": "撸全国Bug，工行1.08-6.6元（还没黄）",
-      "url": "https://www.xiaohongshu.com/explore/6abf7be2000000001500a4d1",
-      "author": "美满",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:13:54.407225",
-      "engagement": {
-        "likes": "822",
-        "comments": "311",
-        "collects": "591",
-        "shares": "443"
-      }
-    },
-    {
-      "id": "20261011-61",
-      "date": "2026-09-28",
-      "publishTime": "2026-09-28",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "快，拿下工行7元和建行2元",
-      "content": "快，拿下工行7元和建行2元",
-      "url": "https://www.xiaohongshu.com/explore/6ab94222000000001301b6b0",
-      "author": "美满",
+      "title": "工行立减金深圳财富回馈礼➕积分领起来",
+      "content": "工行立减金深圳财富回馈礼➕积分领起来",
+      "url": "https://www.xiaohongshu.com/explore/6aca16a20000000014002acc",
+      "author": "晓宇会生活",
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
       "fetchTime": "2026-10-11T23:17:45.376874",
       "engagement": {
-        "likes": "92",
-        "comments": "9",
-        "collects": "54",
-        "shares": "19"
+        "likes": "0",
+        "comments": "0",
+        "collects": "4",
+        "shares": "0"
       }
     },
     {
-      "id": "20261011-62",
+      "id": "20261011-54",
       "date": "2026-04-06",
       "publishTime": "2026-04-06",
       "source": "小红书",
@@ -1540,7 +1348,7 @@
       }
     },
     {
-      "id": "20261011-63",
+      "id": "20261011-55",
       "date": "2026-10-11",
       "publishTime": "2026-10-11",
       "source": "小红书",
@@ -1563,76 +1371,30 @@
       }
     },
     {
-      "id": "20261011-64",
-      "date": "2026-10-03",
-      "publishTime": "2026-10-03",
+      "id": "20261011-56",
+      "date": "2026-09-18",
+      "publishTime": "2026-09-18",
       "source": "小红书",
       "sourceType": "social",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "riskLevel": "low",
-      "title": "速薅，工行每天1.08立减金",
-      "content": "速薅，工行每天1.08立减金",
-      "url": "https://www.xiaohongshu.com/explore/6ac060750000000014032a31",
-      "author": "努力搬砖人",
+      "title": "快去领北京工商银行60-30优惠券",
+      "content": "快去领北京工商银行60-30优惠券",
+      "url": "https://www.xiaohongshu.com/explore/6aacf08c000000002900e898",
+      "author": "moumo",
       "status": "已发布",
       "amount": "-",
       "relatedProduct": "其他",
       "fetchTime": "2026-10-11T23:14:57.820122",
       "engagement": {
-        "likes": "357",
-        "comments": "80",
-        "collects": "335",
-        "shares": "277"
+        "likes": "41",
+        "comments": "46",
+        "collects": "14",
+        "shares": "53"
       }
     },
     {
-      "id": "20261011-65",
-      "date": "2026-09-29",
-      "publishTime": "2026-09-29",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行1.3元，挺好拿的",
-      "content": "工行1.3元，挺好拿的",
-      "url": "https://www.xiaohongshu.com/explore/6abb693a0000000015014b94",
-      "author": "美满",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:13:54.407225",
-      "engagement": {
-        "likes": "441",
-        "comments": "81",
-        "collects": "268",
-        "shares": "243"
-      }
-    },
-    {
-      "id": "20261011-66",
-      "date": "2026-10-10",
-      "publishTime": "2026-10-10",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "喜中工行12元，意外中的意外",
-      "content": "喜中工行12元，意外中的意外",
-      "url": "https://www.xiaohongshu.com/explore/6ac9eb84000000001500b9dd",
-      "author": "美满",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:13:54.407225",
-      "engagement": {
-        "likes": "332",
-        "comments": "39",
-        "collects": "286",
-        "shares": "93"
-      }
-    },
-    {
-      "id": "20261011-67",
+      "id": "20261011-57",
       "date": "2026-10-01",
       "publishTime": "2026-10-01",
       "source": "小红书",
@@ -1655,30 +1417,7 @@
       }
     },
     {
-      "id": "20261011-68",
-      "date": "2026-10-10",
-      "publishTime": "2026-10-10",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "2026 中网薅羊毛合集（附各个点位）",
-      "content": "2026 中网薅羊毛合集（附各个点位）",
-      "url": "https://www.xiaohongshu.com/explore/6ac055ab0000000018017ec8",
-      "author": "中网麻哥",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:16:59.253077",
-      "engagement": {
-        "likes": "189",
-        "comments": "1",
-        "collects": "195",
-        "shares": "117"
-      }
-    },
-    {
-      "id": "20261011-69",
+      "id": "20261011-58",
       "date": "2026-09-14",
       "publishTime": "2026-09-14",
       "source": "小红书",
@@ -1701,7 +1440,7 @@
       }
     },
     {
-      "id": "20261011-70",
+      "id": "20261011-59",
       "date": "2026-10-02",
       "publishTime": "2026-10-02",
       "source": "小红书",
@@ -1724,7 +1463,7 @@
       }
     },
     {
-      "id": "20261011-71",
+      "id": "20261011-60",
       "date": "2026-08-09",
       "publishTime": "2026-08-09",
       "source": "小红书",
@@ -1747,7 +1486,7 @@
       }
     },
     {
-      "id": "20261011-72",
+      "id": "20261011-61",
       "date": "2026-09-23",
       "publishTime": "2026-09-23",
       "source": "小红书",
@@ -1770,76 +1509,7 @@
       }
     },
     {
-      "id": "20261011-73",
-      "date": "2026-06-10",
-      "publishTime": "2026-06-10",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行银证100大毛到手！",
-      "content": "工行银证100大毛到手！",
-      "url": "https://www.xiaohongshu.com/explore/6a28b54c000000001700a57f",
-      "author": "小丸子的羊毛星球",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:16:59.253077",
-      "engagement": {
-        "likes": "46",
-        "comments": "76",
-        "collects": "35",
-        "shares": "21"
-      }
-    },
-    {
-      "id": "20261011-74",
-      "date": "2026-09-17",
-      "publishTime": "2026-09-17",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行的羊毛不薅，你真亏了",
-      "content": "工行的羊毛不薅，你真亏了",
-      "url": "https://www.xiaohongshu.com/explore/6aabfac2000000002b000771",
-      "author": "铁蛋儿妹妹",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:13:15.971540",
-      "engagement": {
-        "likes": "59",
-        "comments": "84",
-        "collects": "18",
-        "shares": "6"
-      }
-    },
-    {
-      "id": "20261011-75",
-      "date": "2026-10-01",
-      "publishTime": "2026-10-01",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "感谢工行！！！",
-      "content": "感谢工行！！！",
-      "url": "https://www.xiaohongshu.com/explore/6abd4a26000000001400207d",
-      "author": "甜",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "47",
-        "comments": "54",
-        "collects": "23",
-        "shares": "6"
-      }
-    },
-    {
-      "id": "20261011-76",
+      "id": "20261011-62",
       "date": "2025-10-12",
       "publishTime": "2025-10-12",
       "source": "小红书",
@@ -1862,53 +1532,7 @@
       }
     },
     {
-      "id": "20261011-77",
-      "date": "2026-06-04",
-      "publishTime": "2026-06-04",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行不知道点了什么地方，突然抽了6万豆",
-      "content": "工行不知道点了什么地方，突然抽了6万豆",
-      "url": "https://www.xiaohongshu.com/explore/6a215cd2000000003802354e",
-      "author": "nothing",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:35.434677",
-      "engagement": {
-        "likes": "27",
-        "comments": "71",
-        "collects": "14",
-        "shares": "11"
-      }
-    },
-    {
-      "id": "20261011-78",
-      "date": "2026-10-10",
-      "publishTime": "2026-10-10",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行玩不起就别玩",
-      "content": "工行玩不起就别玩",
-      "url": "https://www.xiaohongshu.com/explore/6aca03ca0000000018013756",
-      "author": "喜好黄金的萱萱",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:35.434348",
-      "engagement": {
-        "likes": "8",
-        "comments": "102",
-        "collects": "2",
-        "shares": "2"
-      }
-    },
-    {
-      "id": "20261011-79",
+      "id": "20261011-63",
       "date": "2026-10-10",
       "publishTime": "2026-10-10",
       "source": "小红书",
@@ -1931,30 +1555,7 @@
       }
     },
     {
-      "id": "20261011-80",
-      "date": "2026-09-16",
-      "publishTime": "2026-09-16",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行你还有多少福利是我不知道的",
-      "content": "工行你还有多少福利是我不知道的",
-      "url": "https://www.xiaohongshu.com/explore/6aaa0c64000000002601e159",
-      "author": "玖二攒钱研究所",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:14:57.820122",
-      "engagement": {
-        "likes": "30",
-        "comments": "18",
-        "collects": "16",
-        "shares": "12"
-      }
-    },
-    {
-      "id": "20261011-81",
+      "id": "20261011-64",
       "date": "2026-10-08",
       "publishTime": "2026-10-08",
       "source": "小红书",
@@ -1977,7 +1578,7 @@
       }
     },
     {
-      "id": "20261011-82",
+      "id": "20261011-65",
       "date": "2026-09-19",
       "publishTime": "2026-09-19",
       "source": "小红书",
@@ -2000,7 +1601,7 @@
       }
     },
     {
-      "id": "20261011-83",
+      "id": "20261011-66",
       "date": "2026-09-27",
       "publishTime": "2026-09-27",
       "source": "小红书",
@@ -2023,7 +1624,7 @@
       }
     },
     {
-      "id": "20261011-84",
+      "id": "20261011-67",
       "date": "2026-10-06",
       "publishTime": "2026-10-06",
       "source": "小红书",
@@ -2046,7 +1647,7 @@
       }
     },
     {
-      "id": "20261011-85",
+      "id": "20261011-68",
       "date": "2026-10-08",
       "publishTime": "2026-10-08",
       "source": "小红书",
@@ -2069,76 +1670,7 @@
       }
     },
     {
-      "id": "20261011-86",
-      "date": "2026-09-08",
-      "publishTime": "2026-09-08",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "😭工行信用卡积分别乱兑！十几万白白亏大",
-      "content": "😭工行信用卡积分别乱兑！十几万白白亏大",
-      "url": "https://www.xiaohongshu.com/explore/6a9f444d000000002a02eaab",
-      "author": "希望🌲",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:35.434677",
-      "engagement": {
-        "likes": "11",
-        "comments": "11",
-        "collects": "8",
-        "shares": "4"
-      }
-    },
-    {
-      "id": "20261011-87",
-      "date": "2026-10-11",
-      "publishTime": "2026-10-11",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行｜支付宝转账1000立减5！可薅3次✨",
-      "content": "工行｜支付宝转账1000立减5！可薅3次✨",
-      "url": "https://www.xiaohongshu.com/explore/6acb895f000000001b01edbf",
-      "author": "王",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:13:54.407225",
-      "engagement": {
-        "likes": "11",
-        "comments": "11",
-        "collects": "8",
-        "shares": "4"
-      }
-    },
-    {
-      "id": "20261011-88",
-      "date": "2026-10-03",
-      "publishTime": "2026-10-03",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行这活动太离谱！",
-      "content": "工行这活动太离谱！",
-      "url": "https://www.xiaohongshu.com/explore/6abfd6060000000015012e4e",
-      "author": "简单",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:13:54.407225",
-      "engagement": {
-        "likes": "12",
-        "comments": "14",
-        "collects": "3",
-        "shares": "5"
-      }
-    },
-    {
-      "id": "20261011-89",
+      "id": "20261011-69",
       "date": "2026-09-21",
       "publishTime": "2026-09-21",
       "source": "小红书",
@@ -2161,7 +1693,7 @@
       }
     },
     {
-      "id": "20261011-90",
+      "id": "20261011-70",
       "date": "2026-06-03",
       "publishTime": "2026-06-03",
       "source": "小红书",
@@ -2184,7 +1716,7 @@
       }
     },
     {
-      "id": "20261011-91",
+      "id": "20261011-71",
       "date": "2026-09-30",
       "publishTime": "2026-09-30",
       "source": "小红书",
@@ -2207,7 +1739,7 @@
       }
     },
     {
-      "id": "20261011-92",
+      "id": "20261011-72",
       "date": "2025-04-13",
       "publishTime": "2025-04-13",
       "source": "小红书",
@@ -2230,7 +1762,7 @@
       }
     },
     {
-      "id": "20261011-93",
+      "id": "20261011-73",
       "date": "2026-03-05",
       "publishTime": "2026-03-05",
       "source": "小红书",
@@ -2253,30 +1785,7 @@
       }
     },
     {
-      "id": "20261011-94",
-      "date": "2026-10-09",
-      "publishTime": "2026-10-09",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行今天又是快乐的一天",
-      "content": "工行今天又是快乐的一天",
-      "url": "https://www.xiaohongshu.com/explore/6ac83789000000001403a6fd",
-      "author": "琪琪可可",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:13:15.971540",
-      "engagement": {
-        "likes": "2",
-        "comments": "13",
-        "collects": "0",
-        "shares": "1"
-      }
-    },
-    {
-      "id": "20261011-95",
+      "id": "20261011-74",
       "date": "2026-10-10",
       "publishTime": "2026-10-10",
       "source": "小红书",
@@ -2299,7 +1808,7 @@
       }
     },
     {
-      "id": "20261011-96",
+      "id": "20261011-75",
       "date": "2026-10-09",
       "publishTime": "2026-10-09",
       "source": "小红书",
@@ -2322,30 +1831,7 @@
       }
     },
     {
-      "id": "20261011-97",
-      "date": "2026-10-11",
-      "publishTime": "2026-10-11",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "工行资产提升1w薅30羊毛",
-      "content": "工行资产提升1w薅30羊毛",
-      "url": "https://www.xiaohongshu.com/explore/6acb35b9000000001c02cddb",
-      "author": "海洋ooo",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "7",
-        "comments": "0",
-        "collects": "5",
-        "shares": "2"
-      }
-    },
-    {
-      "id": "20261011-98",
+      "id": "20261011-76",
       "date": "2026-07-28",
       "publishTime": "2026-07-28",
       "source": "小红书",
@@ -2368,30 +1854,7 @@
       }
     },
     {
-      "id": "20261011-99",
-      "date": "2026-10-05",
-      "publishTime": "2026-10-05",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "上海20w年薪｜假期薅羊毛",
-      "content": "上海20w年薪｜假期薅羊毛",
-      "url": "https://www.xiaohongshu.com/explore/6ac35063000000001500f292",
-      "author": "甜小瓜",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:17:45.376874",
-      "engagement": {
-        "likes": "6",
-        "comments": "1",
-        "collects": "6",
-        "shares": "1"
-      }
-    },
-    {
-      "id": "20261011-100",
+      "id": "20261011-77",
       "date": "2026-10-10",
       "publishTime": "2026-10-10",
       "source": "小红书",
@@ -2414,7 +1877,7 @@
       }
     },
     {
-      "id": "20261011-101",
+      "id": "20261011-78",
       "date": "2026-10-10",
       "publishTime": "2026-10-10",
       "source": "小红书",
@@ -2437,12 +1900,334 @@
       }
     },
     {
-      "id": "20261011-102",
+      "id": "20261011-79",
+      "date": "2026-09-15",
+      "publishTime": "2026-09-15",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工银e生活绝对可以的一早发放福利手气不错",
+      "content": "工银e生活绝对可以的一早发放福利手气不错",
+      "url": "https://www.xiaohongshu.com/explore/6aa8996b000000002a0057d9",
+      "author": "小红薯_7694",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:12:35.435311",
+      "engagement": {
+        "likes": "7",
+        "comments": "20",
+        "collects": "0",
+        "shares": "7"
+      }
+    },
+    {
+      "id": "20261011-80",
+      "date": "2026-10-04",
+      "publishTime": "2026-10-04",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "撸全国Bug，工行1.08-6.6元（还没黄）",
+      "content": "撸全国Bug，工行1.08-6.6元（还没黄）",
+      "url": "https://www.xiaohongshu.com/explore/6abf7be2000000001500a4d1",
+      "author": "美满",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:13:54.407225",
+      "engagement": {
+        "likes": "822",
+        "comments": "311",
+        "collects": "591",
+        "shares": "443"
+      }
+    },
+    {
+      "id": "20261011-81",
+      "date": "2026-09-28",
+      "publishTime": "2026-09-28",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "快，拿下工行7元和建行2元",
+      "content": "快，拿下工行7元和建行2元",
+      "url": "https://www.xiaohongshu.com/explore/6ab94222000000001301b6b0",
+      "author": "美满",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:17:45.376874",
+      "engagement": {
+        "likes": "92",
+        "comments": "9",
+        "collects": "54",
+        "shares": "19"
+      }
+    },
+    {
+      "id": "20261011-82",
+      "date": "2026-10-03",
+      "publishTime": "2026-10-03",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "速薅，工行每天1.08立减金",
+      "content": "速薅，工行每天1.08立减金",
+      "url": "https://www.xiaohongshu.com/explore/6ac060750000000014032a31",
+      "author": "努力搬砖人",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:14:57.820122",
+      "engagement": {
+        "likes": "357",
+        "comments": "80",
+        "collects": "335",
+        "shares": "277"
+      }
+    },
+    {
+      "id": "20261011-83",
+      "date": "2026-09-29",
+      "publishTime": "2026-09-29",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行1.3元，挺好拿的",
+      "content": "工行1.3元，挺好拿的",
+      "url": "https://www.xiaohongshu.com/explore/6abb693a0000000015014b94",
+      "author": "美满",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:13:54.407225",
+      "engagement": {
+        "likes": "441",
+        "comments": "81",
+        "collects": "268",
+        "shares": "243"
+      }
+    },
+    {
+      "id": "20261011-84",
+      "date": "2026-10-10",
+      "publishTime": "2026-10-10",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "喜中工行12元，意外中的意外",
+      "content": "喜中工行12元，意外中的意外",
+      "url": "https://www.xiaohongshu.com/explore/6ac9eb84000000001500b9dd",
+      "author": "美满",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:13:54.407225",
+      "engagement": {
+        "likes": "332",
+        "comments": "39",
+        "collects": "286",
+        "shares": "93"
+      }
+    },
+    {
+      "id": "20261011-85",
+      "date": "2026-06-10",
+      "publishTime": "2026-06-10",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行银证100大毛到手！",
+      "content": "工行银证100大毛到手！",
+      "url": "https://www.xiaohongshu.com/explore/6a28b54c000000001700a57f",
+      "author": "小丸子的羊毛星球",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:16:59.253077",
+      "engagement": {
+        "likes": "46",
+        "comments": "76",
+        "collects": "35",
+        "shares": "21"
+      }
+    },
+    {
+      "id": "20261011-86",
+      "date": "2026-09-17",
+      "publishTime": "2026-09-17",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行的羊毛不薅，你真亏了",
+      "content": "工行的羊毛不薅，你真亏了",
+      "url": "https://www.xiaohongshu.com/explore/6aabfac2000000002b000771",
+      "author": "铁蛋儿妹妹",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:13:15.971540",
+      "engagement": {
+        "likes": "59",
+        "comments": "84",
+        "collects": "18",
+        "shares": "6"
+      }
+    },
+    {
+      "id": "20261011-87",
+      "date": "2026-10-01",
+      "publishTime": "2026-10-01",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "感谢工行！！！",
+      "content": "感谢工行！！！",
+      "url": "https://www.xiaohongshu.com/explore/6abd4a26000000001400207d",
+      "author": "甜",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:12:04.862467",
+      "engagement": {
+        "likes": "47",
+        "comments": "54",
+        "collects": "23",
+        "shares": "6"
+      }
+    },
+    {
+      "id": "20261011-88",
+      "date": "2026-06-04",
+      "publishTime": "2026-06-04",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行不知道点了什么地方，突然抽了6万豆",
+      "content": "工行不知道点了什么地方，突然抽了6万豆",
+      "url": "https://www.xiaohongshu.com/explore/6a215cd2000000003802354e",
+      "author": "nothing",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:12:35.434677",
+      "engagement": {
+        "likes": "27",
+        "comments": "71",
+        "collects": "14",
+        "shares": "11"
+      }
+    },
+    {
+      "id": "20261011-89",
+      "date": "2026-09-16",
+      "publishTime": "2026-09-16",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行你还有多少福利是我不知道的",
+      "content": "工行你还有多少福利是我不知道的",
+      "url": "https://www.xiaohongshu.com/explore/6aaa0c64000000002601e159",
+      "author": "玖二攒钱研究所",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:14:57.820122",
+      "engagement": {
+        "likes": "30",
+        "comments": "18",
+        "collects": "16",
+        "shares": "12"
+      }
+    },
+    {
+      "id": "20261011-90",
+      "date": "2026-10-11",
+      "publishTime": "2026-10-11",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行｜支付宝转账1000立减5！可薅3次✨",
+      "content": "工行｜支付宝转账1000立减5！可薅3次✨",
+      "url": "https://www.xiaohongshu.com/explore/6acb895f000000001b01edbf",
+      "author": "王",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:13:54.407225",
+      "engagement": {
+        "likes": "11",
+        "comments": "11",
+        "collects": "8",
+        "shares": "4"
+      }
+    },
+    {
+      "id": "20261011-91",
+      "date": "2026-10-09",
+      "publishTime": "2026-10-09",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行今天又是快乐的一天",
+      "content": "工行今天又是快乐的一天",
+      "url": "https://www.xiaohongshu.com/explore/6ac83789000000001403a6fd",
+      "author": "琪琪可可",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:13:15.971540",
+      "engagement": {
+        "likes": "2",
+        "comments": "13",
+        "collects": "0",
+        "shares": "1"
+      }
+    },
+    {
+      "id": "20261011-92",
+      "date": "2026-10-11",
+      "publishTime": "2026-10-11",
+      "source": "小红书",
+      "sourceType": "social",
+      "sentiment": "positive",
+      "riskLevel": "low",
+      "title": "工行资产提升1w薅30羊毛",
+      "content": "工行资产提升1w薅30羊毛",
+      "url": "https://www.xiaohongshu.com/explore/6acb35b9000000001c02cddb",
+      "author": "海洋ooo",
+      "status": "已发布",
+      "amount": "-",
+      "relatedProduct": "其他",
+      "fetchTime": "2026-10-11T23:12:04.862467",
+      "engagement": {
+        "likes": "7",
+        "comments": "0",
+        "collects": "5",
+        "shares": "2"
+      }
+    },
+    {
+      "id": "20261011-93",
       "date": "2026-10-08",
       "publishTime": "2026-10-08",
       "source": "小红书",
       "sourceType": "social",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "riskLevel": "low",
       "title": "10.8日寒露工行可抽366豆子🔥速",
       "content": "10.8日寒露工行可抽366豆子🔥速",
@@ -2457,52 +2242,6 @@
         "comments": "0",
         "collects": "2",
         "shares": "3"
-      }
-    },
-    {
-      "id": "20261011-103",
-      "date": "2026-10-09",
-      "publishTime": "2026-10-09",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "交行资产提升活动财运多多",
-      "content": "交行资产提升活动财运多多",
-      "url": "https://www.xiaohongshu.com/explore/6ac83949000000001a024357",
-      "author": "咩咩羊毛社",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "5",
-        "comments": "8",
-        "collects": "8",
-        "shares": "2"
-      }
-    },
-    {
-      "id": "20261011-104",
-      "date": "2026-10-08",
-      "publishTime": "2026-10-08",
-      "source": "小红书",
-      "sourceType": "social",
-      "sentiment": "neutral",
-      "riskLevel": "low",
-      "title": "农行十月资产提升报名，奖励翻倍",
-      "content": "农行十月资产提升报名，奖励翻倍",
-      "url": "https://www.xiaohongshu.com/explore/6ac70a68000000001802b5f2",
-      "author": "CHRIS",
-      "status": "已发布",
-      "amount": "-",
-      "relatedProduct": "其他",
-      "fetchTime": "2026-10-11T23:12:04.862467",
-      "engagement": {
-        "likes": "4",
-        "comments": "6",
-        "collects": "2",
-        "shares": "2"
       }
     }
   ]
